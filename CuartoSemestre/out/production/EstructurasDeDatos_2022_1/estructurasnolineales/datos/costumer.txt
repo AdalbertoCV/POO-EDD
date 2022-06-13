@@ -1,0 +1,324 @@
+CUSTOMER_ID	CUST_FIRST_NAME	CUST_LAST_NAME	CUST_ADDRESS	PHONE_NUMBERS	NLS_LANGUAGE	NLS_TERRITORY	CREDIT_LIMIT	CUST_EMAIL	ACCOUNT_MGR_ID	CUST_GEO_LOCATION	DATE_OF_BIRTH	MARITAL_STATUS	GENDER	INCOME_LEVEL	
+240	Malcolm	Kanth	oracle.sql.STRUCT@6dc184bc	[+1 410 123 4816]	us	AMERICA	2400	Malcolm.Kanth@PIPIT.COM	145	oracle.sql.STRUCT@5e3a9fb6	19/06/1955	married	F	H: 150,000 - 169,999	
+241	Malcolm	Broderick	oracle.sql.STRUCT@682eb58d	[+1 410 123 4817]	us	AMERICA	2400	Malcolm.Broderick@PLOVER.COM	145	oracle.sql.STRUCT@28f47a90	28/06/1952	single	M	F: 110,000 - 129,999	
+242	Mary	Lemmon	oracle.sql.STRUCT@5300706c	[+1 301 123 4818]	us	AMERICA	2400	Mary.Lemmon@PUFFIN.COM	145	oracle.sql.STRUCT@4d034cad	18/07/1962	married	M	K: 250,000 - 299,999	
+243	Mary	Collins	oracle.sql.STRUCT@509c0a5d	[+1 301 123 4819]	us	AMERICA	2400	Mary.Collins@PYRRHULOXIA.COM	145	oracle.sql.STRUCT@5bb7ca24	18/08/1955	married	F	F: 110,000 - 129,999	
+244	Matt	Gueney	oracle.sql.STRUCT@be4422e	[+1 410 123 4822]	us	AMERICA	2400	Matt.Gueney@REDPOLL.COM	145	oracle.sql.STRUCT@5c5501db	27/08/1952	single	M	G: 130,000 - 149,999	
+245	Max	von Sydow	oracle.sql.STRUCT@6cab36ee	[+1 410 123 4840]	us	AMERICA	2400	Max.vonSydow@REDSTART.COM	145	oracle.sql.STRUCT@92827b5	07/09/1967	single	M	K: 250,000 - 299,999	
+246	Max	Schell	oracle.sql.STRUCT@20f4f18c	[+1 414 123 4363]	us	AMERICA	2400	Max.Schell@SANDERLING.COM	145	oracle.sql.STRUCT@54db6790	16/09/1984	married	M	F: 110,000 - 129,999	
+247	Cynda	Whitcraft	oracle.sql.STRUCT@617227a3	[+1 507 123 4387]	us	AMERICA	2400	Cynda.Whitcraft@SANDPIPER.COM	145	oracle.sql.STRUCT@29afb1b7	16/10/1954	married	M	B: 30,000 - 49,999	
+248	Donald	Minnelli	oracle.sql.STRUCT@2ed04d9f	[+1 612 123 4436]	us	AMERICA	2400	Donald.Minnelli@SCAUP.COM	145	oracle.sql.STRUCT@21385832	26/10/1953	single	M	F: 110,000 - 129,999	
+249	Hannah	Broderick	oracle.sql.STRUCT@51873c89	[+1 219 123 4145]	us	AMERICA	2400	Hannah.Broderick@SHRIKE.COM	145	oracle.sql.STRUCT@5711d07	16/11/1975	married	M	D: 70,000 - 89,999	
+250	Dan	Williams	oracle.sql.STRUCT@29e10483	[+1 616 123 4190]	us	AMERICA	2400	Dan.Williams@SISKIN.COM	145	oracle.sql.STRUCT@4a7b2045	25/11/1984	single	M	A: Below 30,000	
+251	Raul	Wilder	oracle.sql.STRUCT@22702ef7	[+1 313 123 4241]	us	AMERICA	2500	Raul.Wilder@STILT.COM	145	oracle.sql.STRUCT@2fe4869b	15/12/1945	married	M	E: 90,000 - 109,999	
+252	Shah Rukh	Field	oracle.sql.STRUCT@e804af8	[+1 616 123 4259]	us	AMERICA	2500	ShahRukh.Field@WHIMBREL.COM	145	oracle.sql.STRUCT@1dea3a65	25/12/1957	single	M	I: 170,000 - 189,999	
+253	Sally	Bogart	oracle.sql.STRUCT@3ecea8b9	[+1 319 123 4269]	us	AMERICA	2500	Sally.Bogart@WILLET.COM	145	oracle.sql.STRUCT@359521a5	14/01/1985	married	M	H: 150,000 - 169,999	
+254	Bruce	Bates	oracle.sql.STRUCT@394e6a65	[+1 712 123 4284]	us	AMERICA	3500	Bruce.Bates@COWBIRD.COM	145	oracle.sql.STRUCT@753b563b	25/01/1940	single	M	D: 70,000 - 89,999	
+255	Brooke	Shepherd	oracle.sql.STRUCT@3efba345	[+1 712 123 4289]	us	AMERICA	3500	Brooke.Shepherd@KILLDEER.COM	145	oracle.sql.STRUCT@227f2536	13/02/1985	married	M	C: 50,000 - 69,999	
+256	Ben	de Niro	oracle.sql.STRUCT@68a86e5e	[+1 414 123 4312]	us	AMERICA	3500	Ben.deNiro@KINGLET.COM	145	oracle.sql.STRUCT@470d67fe	24/02/1980	single	M	I: 170,000 - 189,999	
+257	Emmet	Walken	oracle.sql.STRUCT@248f05d1	[+1 414 123 4364]	us	AMERICA	3600	Emmet.Walken@LIMPKIN.COM	145	oracle.sql.STRUCT@7f82c2e3	15/03/1975	married	M	B: 30,000 - 49,999	
+258	Ellen	Palin	oracle.sql.STRUCT@547389d3	[+1 320 123 4385]	us	AMERICA	3600	Ellen.Palin@LONGSPUR.COM	145	oracle.sql.STRUCT@786d2634	14/04/1977	married	M	H: 150,000 - 169,999	
+259	Denholm	von Sydow	oracle.sql.STRUCT@24900565	[+1 612 123 4407]	us	AMERICA	3600	Denholm.vonSydow@MERGANSER.COM	145	oracle.sql.STRUCT@4d6c4ece	24/04/1943	single	F	D: 70,000 - 89,999	
+260	Ellen	Khan	oracle.sql.STRUCT@5996ba1	[+1 716 123 4456]	us	AMERICA	3600	Ellen.Khan@VERDIN.COM	149	oracle.sql.STRUCT@14d4a1a0	14/05/1962	married	M	F: 110,000 - 129,999	
+262	Fred	Reynolds	oracle.sql.STRUCT@30cb2572	[+1 716 123 4627]	us	AMERICA	3600	Fred.Reynolds@WATERTHRUSH.COM	149	oracle.sql.STRUCT@1ffe079b	13/07/1958	married	M	F: 110,000 - 129,999	
+263	Fred	Lithgow	oracle.sql.STRUCT@5174a3a6	[+1 412 123 4677]	us	AMERICA	3600	Fred.Lithgow@WHIMBREL.COM	149	oracle.sql.STRUCT@609cd189	23/07/1979	single	M	D: 70,000 - 89,999	
+264	George	Adjani	oracle.sql.STRUCT@915885d	[+1 215 123 4702]	us	AMERICA	3600	George.Adjani@WILLET.COM	149	oracle.sql.STRUCT@6638943b	12/08/1947	married	F	F: 110,000 - 129,999	
+265	Irene	Laughton	oracle.sql.STRUCT@12a572c9	[+1 215 123 4749]	us	AMERICA	3600	Irene.Laughton@ANHINGA.COM	149	oracle.sql.STRUCT@1433f98d	22/08/1973	single	F	J: 190,000 - 249,999	
+267	Prem	Walken	oracle.sql.STRUCT@31c1dc36	[+1 301 123 4831]	us	AMERICA	3700	Prem.Walken@BRANT.COM	145	oracle.sql.STRUCT@137a0f79	11/09/1953	married	F	G: 130,000 - 149,999	
+268	Kyle	Schneider	oracle.sql.STRUCT@2a7004e5	[+1 313 123 4167]	us	AMERICA	3700	Kyle.Schneider@DUNLIN.COM	145	oracle.sql.STRUCT@21846fb7	21/09/1952	single	F	G: 130,000 - 149,999	
+269	Kyle	Martin	oracle.sql.STRUCT@1e9b27dd	[+1 219 123 4116]	us	AMERICA	3700	Kyle.Martin@EIDER.COM	145	oracle.sql.STRUCT@5d59e2b0	11/10/1958	married	F	D: 70,000 - 89,999	
+271	Shelley	Peckinpah	oracle.sql.STRUCT@77a482d2	[+1 810 123 4212]	us	AMERICA	3700	Shelley.Peckinpah@GODWIT.COM	145	oracle.sql.STRUCT@755fa246	20/11/1987	single	F	D: 70,000 - 89,999	
+272	Prem	Garcia	oracle.sql.STRUCT@323dc6ff	[+1 313 123 4240]	us	AMERICA	3700	Prem.Garcia@JACANA.COM	145	oracle.sql.STRUCT@2063fe6a	10/12/1960	married	M	I: 170,000 - 189,999	
+273	Bo	Hitchcock	oracle.sql.STRUCT@73824aa6	[+1 414 123 4340]	us	AMERICA	5000	Bo.Hitchcock@ANHINGA.COM	145	oracle.sql.STRUCT@7b478b02	09/01/1954	married	M	E: 90,000 - 109,999	
+274	Bob	McCarthy	oracle.sql.STRUCT@2711b0ab	[+1 716 123 4485]	us	AMERICA	5000	Bob.McCarthy@ANI.COM	149	oracle.sql.STRUCT@183e8a8d	19/01/1946	single	M	A: Below 30,000	
+276	Dom	Hoskins	oracle.sql.STRUCT@79083456	[+1 518 123 4562]	us	AMERICA	5000	Dom.Hoskins@AVOCET.COM	149	oracle.sql.STRUCT@3e50bfee	10/03/1951	married	M	E: 90,000 - 109,999	
+277	Don	Siegel	oracle.sql.STRUCT@146ec467	[+1 315 123 4585]	us	AMERICA	5000	Don.Siegel@BITTERN.COM	149	oracle.sql.STRUCT@78685e85	20/03/1950	single	M	B: 30,000 - 49,999	
+278	Gvtz	Bradford	oracle.sql.STRUCT@40fa6f5a	[+1 412 123 4659]	us	AMERICA	5000	Gvtz.Bradford@BULBUL.COM	149	oracle.sql.STRUCT@7bee1764	08/04/1964	married	M	K: 250,000 - 299,999	
+280	Rob	MacLaine	oracle.sql.STRUCT@1941a982	[+1 215 123 4709]	us	AMERICA	5000	Rob.MacLaine@COOT.COM	149	oracle.sql.STRUCT@23675059	09/05/1949	married	M	B: 30,000 - 49,999	
+281	Don	Barkin	oracle.sql.STRUCT@30f46bd0	[+1 215 123 4751]	us	AMERICA	5000	Don.Barkin@CORMORANT.COM	149	oracle.sql.STRUCT@3baa0f9d	18/05/1956	single	M	I: 170,000 - 189,999	
+282	Kurt	Danson	oracle.sql.STRUCT@2f33bcd3	[+1 410 123 4807]	us	AMERICA	5000	Kurt.Danson@COWBIRD.COM	145	oracle.sql.STRUCT@36cfd4f4	07/06/1988	married	M	H: 150,000 - 169,999	
+308	Glenda	Dunaway	oracle.sql.STRUCT@25f68316	[+86 811 012 4093]	zhs	CHINA	1200	Glenda.Dunaway@DOWITCHER.COM	148		08/07/1957	married	M	C: 50,000 - 69,999	
+309	Glenda	Bates	oracle.sql.STRUCT@4e4bb6d2	[+86 123 012 4095]	zhs	CHINA	1200	Glenda.Bates@DIPPER.COM	148		18/07/1955	single	M	F: 110,000 - 129,999	
+323	Goetz	Falk	oracle.sql.STRUCT@7cac4eec	[+91 80 012 4123	 +91 80 083 4833]	hi	INDIA	5000	Goetz.Falk@VEERY.COM	148		06/08/1980	married	F	G: 130,000 - 149,999
+326	Hal	Olin	oracle.sql.STRUCT@340c5df9	[+49 89 012 4129	 +49 89 083 4839]	d	GERMANY	2400	Hal.Olin@FLICKER.COM	147		06/09/1959	married	F	H: 150,000 - 169,999
+327	Hannah	Kanth	oracle.sql.STRUCT@2573965d	[+49 90 012 4131	 +49 90 083 4131]	d	GERMANY	2400	Hannah.Kanth@GADWALL.COM	147		15/09/1956	single	M	F: 110,000 - 129,999
+328	Hannah	Field	oracle.sql.STRUCT@369d4907	[+49 91 012 4133	 +49 91 083 4133]	d	GERMANY	2400	Hannah.Field@GALLINULE.COM	147		06/10/1985	married	F	G: 130,000 - 149,999
+333	Margret	Powell	oracle.sql.STRUCT@2858ba16	[+39 6 012 4543]	i	ITALY	1200	Margret.Powell@ANI.COM	147		16/10/1953	single	M	G: 130,000 - 149,999	
+334	Harry Mean	Taylor	oracle.sql.STRUCT@7e6dc971	[+1 416 012 4147]	us	AMERICA	1200	HarryMean.Taylor@REDPOLL.COM	147		15/11/1981	single	M	I: 170,000 - 189,999	
+335	Margrit	Garner	oracle.sql.STRUCT@4715699f	[+39 55 012 4547]	i	ITALY	500	Margrit.Garner@STILT.COM	147		05/12/1982	married	F	H: 150,000 - 169,999	
+337	Maria	Warden	oracle.sql.STRUCT@1b1cc50b	[+39 55 012 4551]	i	ITALY	500	Maria.Warden@TANAGER.COM	147		03/01/1973	married	F	B: 30,000 - 49,999	
+339	Marilou	Landis	oracle.sql.STRUCT@76795474	[+39 55 012 4555]	i	ITALY	500	Marilou.Landis@TATTLER.COM	147		13/01/1933	single	M	A: Below 30,000	
+361	Marilou	Chapman	oracle.sql.STRUCT@66cf3d8b	[+39 55 012 4559]	i	ITALY	500	Marilou.Chapman@TEAL.COM	147		11/08/1989	single	F	D: 70,000 - 89,999	
+363	Kathy	Lambert	oracle.sql.STRUCT@a7ae95c	[+39 10 012 4363]	i	ITALY	2400	Kathy.Lambert@COOT.COM	147		31/08/1956	married	M	C: 50,000 - 69,999	
+360	Helmut	Capshaw	oracle.sql.STRUCT@77334185	[+86 10 012 4165]	zhs	CHINA	3600	Helmut.Capshaw@TROGON.COM	148		01/08/1977	married	M	J: 190,000 - 249,999	
+341	Keir	George	oracle.sql.STRUCT@4b5561e3	[+39 10 012 4365]	i	ITALY	700	Keir.George@VIREO.COM	147		03/02/1963	married	F	E: 90,000 - 109,999	
+342	Marlon	Laughton	oracle.sql.STRUCT@54e93e67	[+39 55 012 4565]	i	ITALY	2400	Marlon.Laughton@CORMORANT.COM	147		13/02/1947	single	F	F: 110,000 - 129,999	
+343	Keir	Chandar	oracle.sql.STRUCT@9040daf	[+39 10 012 4367]	i	ITALY	700	Keir.Chandar@WATERTHRUSH.COM	147		04/03/1960	married	M	G: 130,000 - 149,999	
+344	Marlon	Godard	oracle.sql.STRUCT@64d64a63	[+81 565 012 4567]	ja	JAPAN	2400	Marlon.Godard@MOORHEN.COM	148		14/03/1960	single	M	H: 150,000 - 169,999	
+345	Keir	Weaver	oracle.sql.STRUCT@4ec6563	[+39 10 012 4369]	i	ITALY	700	Keir.Weaver@WHIMBREL.COM	147		04/04/1962	married	M	H: 150,000 - 169,999	
+346	Marlon	Clapton	oracle.sql.STRUCT@19eb799f	[+39 55 012 4569]	i	ITALY	2400	Marlon.Clapton@COWBIRD.COM	147		13/04/1988	married	M	K: 250,000 - 299,999	
+347	Kelly	Quinlan	oracle.sql.STRUCT@302b6678	[+39 10 012 4371	 +39 10 083 4371]	i	ITALY	3600	Kelly.Quinlan@PYRRHULOXIA.COM	147		03/05/2029	married	F	A: Below 30,000
+348	Kelly	Lange	oracle.sql.STRUCT@6678a74c	[+39 49 012 4373	 +39 49 083 4373]	i	ITALY	3600	Kelly.Lange@SANDPIPER.COM	147		14/05/1971	single	M	F: 110,000 - 129,999
+349	Ken	Glenn	oracle.sql.STRUCT@1d8119d	[+39 49 012 4375	 +39 49 083 4375]	i	ITALY	3600	Ken.Glenn@SAW-WHET.COM	147		03/06/1967	married	M	K: 250,000 - 299,999
+350	Ken	Chopra	oracle.sql.STRUCT@43bdb7b8	[+39 49 012 4377	 +39 49 083 4377]	i	ITALY	3600	Ken.Chopra@SCAUP.COM	147		13/06/1951	single	F	F: 110,000 - 129,999
+351	Ken	Wenders	oracle.sql.STRUCT@284e0111	[+39 10 012 4379	 +39 10 083 4379]	i	ITALY	3600	Ken.Wenders@REDPOLL.COM	147		03/07/1962	married	F	F: 110,000 - 129,999
+380	Meryl	Holden	oracle.sql.STRUCT@baf9193	[+91 80 012 4637	 +91 80 083 4637]	hi	INDIA	3700	Meryl.Holden@DIPPER.COM	148		10/10/1961	single	F	H: 150,000 - 169,999
+447	Richard	Coppola	oracle.sql.STRUCT@4a3a3d82	[+39 2 012 4771]	i	ITALY	500	Richard.Coppola@SISKIN.COM	147		30/10/1981	married	F	C: 50,000 - 69,999	
+449	Rick	Romero	oracle.sql.STRUCT@6494530a	[+39 2 012 4775]	i	ITALY	1500	Rick.Romero@LONGSPUR.COM	147		10/12/1951	single	F	B: 30,000 - 49,999	
+450	Rick	Lyon	oracle.sql.STRUCT@3c0a9000	[+39 49 012 4777]	i	ITALY	1500	Rick.Lyon@MERGANSER.COM	147		01/01/1941	married	F	F: 110,000 - 129,999	
+451	Ridley	Hackman	oracle.sql.STRUCT@4b5ead1b	[+39 49 012 4779]	i	ITALY	700	Ridley.Hackman@ANHINGA.COM	147		11/01/1950	single	F	H: 150,000 - 169,999	
+453	Ridley	Young	oracle.sql.STRUCT@50934fdf	[+91 80 012 4783]	hi	INDIA	700	Ridley.Young@CHUKAR.COM	148		10/02/1945	single	M	F: 110,000 - 129,999	
+454	Rob	Russell	oracle.sql.STRUCT@16595ac4	[+91 80 012 4785	 +91 80 083 4785]	hi	INDIA	5000	Rob.Russell@VERDIN.COM	148		02/03/1977	married	M	E: 90,000 - 109,999
+458	Robert	de Niro	oracle.sql.STRUCT@7e3b429f	[+91 80 012 4793]	hi	INDIA	3700	Robert.deNiro@DOWITCHER.COM	148		12/03/1986	single	F	H: 150,000 - 169,999	
+466	Rodolfo	Hershey	oracle.sql.STRUCT@40331e36	[+91 80 012 4809	 +91 80 083 4809]	hi	INDIA	5000	Rodolfo.Hershey@VIREO.COM	148		11/04/1947	single	M	F: 110,000 - 129,999
+467	Rodolfo	Dench	oracle.sql.STRUCT@a945c58	[+91 11 012 4811	 +91 11 083 4811]	hi	INDIA	5000	Rodolfo.Dench@SCOTER.COM	148		01/05/1971	married	F	F: 110,000 - 129,999
+470	Roger	Mastroianni	oracle.sql.STRUCT@56c7b8b4	[+91 11 012 4817	 +91 11 083 4817]	hi	INDIA	3700	Roger.Mastroianni@CREEPER.COM	148		31/05/1967	married	M	L: 300,000 and above
+473	Rolf	Ashby	oracle.sql.STRUCT@72cc2749	[+91 80 012 4823	 +91 80 083 4823]	hi	INDIA	5000	Rolf.Ashby@WATERTHRUSH.COM	148		10/06/1949	single	M	G: 130,000 - 149,999
+474	Romy	Sharif	oracle.sql.STRUCT@2a564588	[+91 33 012 4825	 +91 33 083 4825]	hi	INDIA	5000	Romy.Sharif@SNIPE.COM	148		29/06/1976	married	M	F: 110,000 - 129,999
+476	Rosanne	Hopkins	oracle.sql.STRUCT@208aa06	[+91 80 012 4829]	hi	INDIA	300	Rosanne.Hopkins@ANI.COM	148		30/07/1979	married	M	D: 70,000 - 89,999	
+477	Rosanne	Douglas	oracle.sql.STRUCT@6961b0eb	[+91 22 012 4831]	hi	INDIA	300	Rosanne.Douglas@ANHINGA.COM	148		09/08/1970	single	F	F: 110,000 - 129,999	
+478	Rosanne	Baldwin	oracle.sql.STRUCT@7a8424e1	[+91 80 012 4833]	hi	INDIA	300	Rosanne.Baldwin@AUKLET.COM	148		29/08/1967	married	F	A: Below 30,000	
+480	Roxanne	Michalkow	oracle.sql.STRUCT@6266543c	[+91 172 012 4837]	hi	INDIA	1200	Roxanne.Michalkow@EIDER.COM	148		18/09/1973	single	M	L: 300,000 and above	
+481	Roy	Hulce	oracle.sql.STRUCT@25798aec	[+91 22 012 4839	 +91 22 083 4839]	hi	INDIA	5000	Roy.Hulce@SISKIN.COM	148		28/09/1967	married	F	E: 90,000 - 109,999
+482	Roy	Dunaway	oracle.sql.STRUCT@41fb9040	[+91 80 012 4841	 +91 80 083 4841]	hi	INDIA	5000	Roy.Dunaway@WHIMBREL.COM	148		28/10/1955	married	F	F: 110,000 - 129,999
+487	Rufus	Dvrrie	oracle.sql.STRUCT@1a0307b2	[+91 11 012 4851	 +91 11 083 4851]	hi	INDIA	1900	Rufus.Dvrrie@PLOVER.COM	148		26/11/1960	married	M	J: 190,000 - 249,999
+488	Rufus	Belushi	oracle.sql.STRUCT@4a14677a	[+91 11 012 4853	 +91 11 083 4853]	hi	INDIA	1900	Rufus.Belushi@PUFFIN.COM	148		26/12/1952	married	M	G: 130,000 - 149,999
+492	Sally	Edwards	oracle.sql.STRUCT@2353aa3e	[+91 172 012 4861]	hi	INDIA	2500	Sally.Edwards@TURNSTONE.COM	148		06/01/1980	married	F	K: 250,000 - 299,999	
+101	Constantin	Welles	oracle.sql.STRUCT@3e374784	[+1 317 123 4104]	us	AMERICA	100	Constantin.Welles@ANHINGA.COM	145	oracle.sql.STRUCT@3c8be967	20/02/1972	married	M	B: 30,000 - 49,999	
+102	Harrison	Pacino	oracle.sql.STRUCT@554d663b	[+1 317 123 4111]	us	AMERICA	100	Harrison.Pacino@ANI.COM	145	oracle.sql.STRUCT@6bf134f6	02/03/1953	single	M	I: 170,000 - 189,999	
+103	Manisha	Taylor	oracle.sql.STRUCT@6f7e456b	[+1 812 123 4115]	us	AMERICA	100	Manisha.Taylor@AUKLET.COM	145	oracle.sql.STRUCT@c5d5932	22/03/1983	married	F	H: 150,000 - 169,999	
+104	Harrison	Sutherland	oracle.sql.STRUCT@321f8a3c	[+1 317 123 4126]	us	AMERICA	100	Harrison.Sutherland@GODWIT.COM	145	oracle.sql.STRUCT@502b4e0d	31/03/1972	single	F	H: 150,000 - 169,999	
+105	Matthias	MacGraw	oracle.sql.STRUCT@4de31c7e	[+1 812 123 4129]	us	AMERICA	100	Matthias.MacGraw@GOLDENEYE.COM	145	oracle.sql.STRUCT@2b114839	21/04/1969	married	F	C: 50,000 - 69,999	
+106	Matthias	Hannah	oracle.sql.STRUCT@6511690d	[+1 219 123 4136]	us	AMERICA	100	Matthias.Hannah@GREBE.COM	145	oracle.sql.STRUCT@6fc01884	30/04/1960	single	M	F: 110,000 - 129,999	
+107	Matthias	Cruise	oracle.sql.STRUCT@3a95e9ee	[+1 219 123 4138]	us	AMERICA	100	Matthias.Cruise@GROSBEAK.COM	145	oracle.sql.STRUCT@1b642e05	21/05/1969	married	F	G: 130,000 - 149,999	
+108	Meenakshi	Mason	oracle.sql.STRUCT@75d37565	[+1 317 123 4141]	us	AMERICA	100	Meenakshi.Mason@JACANA.COM	145	oracle.sql.STRUCT@1a385763	20/06/1957	married	M	H: 150,000 - 169,999	
+109	Christian	Cage	oracle.sql.STRUCT@ff71753	[+1 219 123 4142]	us	AMERICA	100	Christian.Cage@KINGLET.COM	145	oracle.sql.STRUCT@35d904ae	30/06/1938	single	M	F: 110,000 - 129,999	
+110	Charlie	Sutherland	oracle.sql.STRUCT@5bcf272d	[+1 317 123 4146]	us	AMERICA	200	Charlie.Sutherland@LIMPKIN.COM	145	oracle.sql.STRUCT@394e078	20/07/1951	married	M	G: 130,000 - 149,999	
+111	Charlie	Pacino	oracle.sql.STRUCT@346e32d6	[+1 812 123 4150]	us	AMERICA	200	Charlie.Pacino@LONGSPUR.COM	145	oracle.sql.STRUCT@496fbc81	29/07/1948	single	M	G: 130,000 - 149,999	
+112	Guillaume	Jackson	oracle.sql.STRUCT@6bbb1cce	[+1 812 123 4151]	us	AMERICA	200	Guillaume.Jackson@MOORHEN.COM	145	oracle.sql.STRUCT@4f08b6e1	19/08/1954	married	M	I: 170,000 - 189,999	
+113	Daniel	Costner	oracle.sql.STRUCT@ab5d554	[+1 812 123 4153]	us	AMERICA	200	Daniel.Costner@PARULA.COM	145	oracle.sql.STRUCT@3e8afb37	29/08/1977	single	M	I: 170,000 - 189,999	
+114	Dianne	Derek	oracle.sql.STRUCT@de4cd44	[+1 812 123 4157]	us	AMERICA	200	Dianne.Derek@SAW-WHET.COM	145	oracle.sql.STRUCT@7d1cda7	17/09/1948	married	M	H: 150,000 - 169,999	
+115	Geraldine	Schneider	oracle.sql.STRUCT@23eab77c	[+1 313 123 4159]	us	AMERICA	200	Geraldine.Schneider@SCAUP.COM	145	oracle.sql.STRUCT@4ad0b375	18/10/1931	married	M	B: 30,000 - 49,999	
+116	Geraldine	Martin	oracle.sql.STRUCT@6175c986	[+1 313 123 4160]	us	AMERICA	200	Geraldine.Martin@SCOTER.COM	145	oracle.sql.STRUCT@68c09cfa	28/10/2027	single	M	A: Below 30,000	
+117	Guillaume	Edwards	oracle.sql.STRUCT@1e6787c9	[+1 616 123 4162]	us	AMERICA	200	Guillaume.Edwards@SHRIKE.COM	145	oracle.sql.STRUCT@5163d46b	16/11/1952	married	M	E: 90,000 - 109,999	
+118	Maurice	Mahoney	oracle.sql.STRUCT@1e151e38	[+1 616 123 4181]	us	AMERICA	200	Maurice.Mahoney@SNIPE.COM	145	oracle.sql.STRUCT@72de764c	27/11/1966	single	M	F: 110,000 - 129,999	
+120	Diane	Higgins	oracle.sql.STRUCT@50a5fe11	[+1 517 123 4199]	us	AMERICA	200	Diane.Higgins@TANAGER.COM	145	oracle.sql.STRUCT@1f2aa8e2	26/12/1984	single	M	H: 150,000 - 169,999	
+121	Dianne	Sen	oracle.sql.STRUCT@297881e1	[+1 517 123 4201]	us	AMERICA	200	Dianne.Sen@TATTLER.COM	145	oracle.sql.STRUCT@2815fe94	15/01/1953	married	M	H: 150,000 - 169,999	
+122	Maurice	Daltrey	oracle.sql.STRUCT@57bfd8f1	[+1 517 123 4206]	us	AMERICA	200	Maurice.Daltrey@TEAL.COM	145	oracle.sql.STRUCT@1d18175c	15/02/1943	married	M	A: Below 30,000	
+123	Elizabeth	Brown	oracle.sql.STRUCT@7082ea97	[+1 313 123 4219]	us	AMERICA	200	Elizabeth.Brown@THRASHER.COM	145	oracle.sql.STRUCT@77e44b4d	24/02/1949	single	F	F: 110,000 - 129,999	
+125	Dianne	Andrews	oracle.sql.STRUCT@5eb56d10	[+1 517 123 4225]	us	AMERICA	200	Dianne.Andrews@TURNSTONE.COM	145	oracle.sql.STRUCT@3ca336d	27/03/1959	single	F	F: 110,000 - 129,999	
+126	Charles	Field	oracle.sql.STRUCT@64fba7d1	[+1 313 123 4226]	us	AMERICA	300	Charles.Field@BECARD.COM	145	oracle.sql.STRUCT@31103620	16/04/1946	married	F	F: 110,000 - 129,999	
+127	Charles	Broderick	oracle.sql.STRUCT@443800ff	[+1 517 123 4228]	us	AMERICA	300	Charles.Broderick@BITTERN.COM	145	oracle.sql.STRUCT@16bb124e	26/04/1943	single	F	B: 30,000 - 49,999	
+129	Louis	Jackson	oracle.sql.STRUCT@2fc7fa67	[+1 616 123 4234]	us	AMERICA	400	Louis.Jackson@CARACARA.COM	145	oracle.sql.STRUCT@1fd67889	26/05/1939	single	M	D: 70,000 - 89,999	
+130	Louis	Edwards	oracle.sql.STRUCT@1bedbc74	[+1 313 123 4242]	us	AMERICA	400	Louis.Edwards@CHACHALACA.COM	145	oracle.sql.STRUCT@550af425	14/06/1944	married	M	C: 50,000 - 69,999	
+131	Doris	Dutt	oracle.sql.STRUCT@458e3821	[+1 616 123 4245]	us	AMERICA	400	Doris.Dutt@CHUKAR.COM	145	oracle.sql.STRUCT@69301229	14/07/1976	married	F	C: 50,000 - 69,999	
+132	Doris	Spacek	oracle.sql.STRUCT@1f481d67	[+1 313 123 4248]	us	AMERICA	400	Doris.Spacek@FLICKER.COM	145	oracle.sql.STRUCT@1d617977	25/07/1987	single	M	H: 150,000 - 169,999	
+134	Sissy	Puri	oracle.sql.STRUCT@291a05ca	[+1 313 123 4255]	us	AMERICA	400	Sissy.Puri@GREBE.COM	145	oracle.sql.STRUCT@40d2fb9a	12/09/1972	married	F	F: 110,000 - 129,999	
+135	Doris	Bel Geddes	oracle.sql.STRUCT@1fae75c2	[+1 313 123 4263]	us	AMERICA	400	Doris.BelGeddes@GROSBEAK.COM	145	oracle.sql.STRUCT@9120d81	22/09/1980	single	F	B: 30,000 - 49,999	
+136	Sissy	Warden	oracle.sql.STRUCT@70df7d3c	[+1 517 123 4265]	us	AMERICA	400	Sissy.Warden@JACANA.COM	145	oracle.sql.STRUCT@27065696	12/10/1944	married	F	F: 110,000 - 129,999	
+138	Mani	Fonda	oracle.sql.STRUCT@4bea27d1	[+1 515 123 4273]	us	AMERICA	500	Mani.Fonda@KINGLET.COM	145	oracle.sql.STRUCT@528d5528	11/11/1977	married	M	F: 110,000 - 129,999	
+139	Placido	Kubrick	oracle.sql.STRUCT@5930f4d8	[+1 319 123 4278]	us	AMERICA	500	Placido.Kubrick@SCOTER.COM	145	oracle.sql.STRUCT@4c17bb8e	22/11/1942	single	M	F: 110,000 - 129,999	
+140	Claudia	Kurosawa	oracle.sql.STRUCT@56d9c972	[+1 712 123 4280]	us	AMERICA	500	Claudia.Kurosawa@CHUKAR.COM	145	oracle.sql.STRUCT@6ec5f294	11/12/1981	married	M	E: 90,000 - 109,999	
+141	Maximilian	Henner	oracle.sql.STRUCT@300d5da0	[+1 319 123 4282]	us	AMERICA	500	Maximilian.Henner@DUNLIN.COM	145	oracle.sql.STRUCT@41375be4	21/12/1973	single	M	H: 150,000 - 169,999	
+143	Sachin	Neeson	oracle.sql.STRUCT@593d88e9	[+1 515 123 4290]	us	AMERICA	500	Sachin.Neeson@GALLINULE.COM	145	oracle.sql.STRUCT@182d8008	20/01/1962	single	M	F: 110,000 - 129,999	
+144	Sivaji	Landis	oracle.sql.STRUCT@42973ef0	[+1 319 123 4301]	us	AMERICA	500	Sivaji.Landis@GOLDENEYE.COM	145	oracle.sql.STRUCT@3904a53d	09/02/1970	married	M	F: 110,000 - 129,999	
+145	Mammutti	Pacino	oracle.sql.STRUCT@ccb1834	[+1 745 123 4306]	us	AMERICA	500	Mammutti.Pacino@GREBE.COM	145	oracle.sql.STRUCT@7892e465	19/02/1946	single	M	F: 110,000 - 129,999	
+147	Ishwarya	Roberts	oracle.sql.STRUCT@3092539	[+1 414 123 4308]	us	AMERICA	600	Ishwarya.Roberts@LAPWING.COM	145	oracle.sql.STRUCT@1f384528	21/03/1944	single	F	G: 130,000 - 149,999	
+148	Gustav	Steenburgen	oracle.sql.STRUCT@4be6f443	[+1 608 123 4309]	us	AMERICA	600	Gustav.Steenburgen@PINTAIL.COM	145	oracle.sql.STRUCT@24389096	10/04/1950	married	M	F: 110,000 - 129,999	
+149	Markus	Rampling	oracle.sql.STRUCT@6e5249c5	[+1 608 123 4318]	us	AMERICA	600	Markus.Rampling@PUFFIN.COM	145	oracle.sql.STRUCT@339e4022	20/04/1941	single	M	D: 70,000 - 89,999	
+150	Goldie	Slater	oracle.sql.STRUCT@4f26eefe	[+1 414 123 4323]	us	AMERICA	700	Goldie.Slater@PYRRHULOXIA.COM	145	oracle.sql.STRUCT@2ffa6bac	11/05/1951	married	M	D: 70,000 - 89,999	
+151	Divine	Aykroyd	oracle.sql.STRUCT@539a03f7	[+1 414 123 4324]	us	AMERICA	700	Divine.Aykroyd@REDSTART.COM	145	oracle.sql.STRUCT@12c4d6f6	20/05/1976	single	M	F: 110,000 - 129,999	
+152	Dieter	Matthau	oracle.sql.STRUCT@6a6d9b4e	[+1 414 123 4328]	us	AMERICA	700	Dieter.Matthau@VERDIN.COM	145	oracle.sql.STRUCT@16b62aa4	09/06/2022	married	M	A: Below 30,000	
+153	Divine	Sheen	oracle.sql.STRUCT@1530063e	[+1 608 123 4332]	us	AMERICA	700	Divine.Sheen@COWBIRD.COM	145	oracle.sql.STRUCT@21770108	20/06/1967	single	M	I: 170,000 - 189,999	
+154	Frederic	Grodin	oracle.sql.STRUCT@27464983	[+1 608 123 4344]	us	AMERICA	700	Frederic.Grodin@CREEPER.COM	145	oracle.sql.STRUCT@82a4c5	29/06/1965	single	F	L: 300,000 and above	
+155	Frederico	Romero	oracle.sql.STRUCT@1596531d	[+1 414 123 4347]	us	AMERICA	700	Frederico.Romero@CURLEW.COM	145	oracle.sql.STRUCT@cf06fe6	09/07/1942	married	M	E: 90,000 - 109,999	
+156	Goldie	Montand	oracle.sql.STRUCT@19ef35aa	[+1 414 123 4348]	us	AMERICA	700	Goldie.Montand@DIPPER.COM	145	oracle.sql.STRUCT@c5e1ede	09/08/1955	married	F	F: 110,000 - 129,999	
+157	Sidney	Capshaw	oracle.sql.STRUCT@2bf7aaf3	[+1 414 123 4350]	us	AMERICA	700	Sidney.Capshaw@DUNLIN.COM	145	oracle.sql.STRUCT@24f76f34	18/08/1969	single	M	G: 130,000 - 149,999	
+158	Frederico	Lyon	oracle.sql.STRUCT@44d54c65	[+1 745 123 4367]	us	AMERICA	700	Frederico.Lyon@FLICKER.COM	145	oracle.sql.STRUCT@388102cf	07/09/1970	married	M	J: 190,000 - 249,999	
+159	Eddie	Boyer	oracle.sql.STRUCT@2e37871e	[+1 414 123 4369]	us	AMERICA	700	Eddie.Boyer@GALLINULE.COM	145	oracle.sql.STRUCT@3126d323	07/10/1953	married	M	G: 130,000 - 149,999	
+160	Eddie	Stern	oracle.sql.STRUCT@5f7e0706	[+1 715 123 4372]	us	AMERICA	700	Eddie.Stern@GODWIT.COM	145	oracle.sql.STRUCT@6f59f15c	06/11/1950	married	M	G: 130,000 - 149,999	
+161	Ernest	Weaver	oracle.sql.STRUCT@7d4484de	[+1 414 123 4373]	us	AMERICA	900	Ernest.Weaver@GROSBEAK.COM	145	oracle.sql.STRUCT@7afcff9e	16/11/1942	single	M	B: 30,000 - 49,999	
+162	Ernest	George	oracle.sql.STRUCT@559581f0	[+1 608 123 4374]	us	AMERICA	900	Ernest.George@LAPWING.COM	145	oracle.sql.STRUCT@75e6490f	07/12/1975	married	M	D: 70,000 - 89,999	
+163	Ernest	Chandar	oracle.sql.STRUCT@2cdd4119	[+1 414 123 4376]	us	AMERICA	900	Ernest.Chandar@LIMPKIN.COM	145	oracle.sql.STRUCT@31405b13	16/12/1962	single	M	H: 150,000 - 169,999	
+164	Charlotte	Kazan	oracle.sql.STRUCT@4823c6ca	[+1 608 123 4378]	us	AMERICA	1200	Charlotte.Kazan@MERGANSER.COM	145	oracle.sql.STRUCT@f4a40f0	05/01/1954	married	M	I: 170,000 - 189,999	
+165	Charlotte	Fonda	oracle.sql.STRUCT@49d91d89	[+1 414 123 4381]	us	AMERICA	1200	Charlotte.Fonda@MOORHEN.COM	145	oracle.sql.STRUCT@7a724f62	05/02/1956	married	M	J: 190,000 - 249,999	
+166	Dheeraj	Alexander	oracle.sql.STRUCT@2cb1c370	[+1 612 123 4397]	us	AMERICA	1200	Dheeraj.Alexander@NUTHATCH.COM	145	oracle.sql.STRUCT@71a15bd6	14/02/1950	single	F	G: 130,000 - 149,999	
+167	Gerard	Hershey	oracle.sql.STRUCT@7015253e	[+1 612 123 4399]	us	AMERICA	1200	Gerard.Hershey@PARULA.COM	145	oracle.sql.STRUCT@18f47d01	06/03/1948	married	M	D: 70,000 - 89,999	
+169	Dheeraj	Davis	oracle.sql.STRUCT@3a7c872c	[+1 612 123 4417]	us	AMERICA	1200	Dheeraj.Davis@PIPIT.COM	145	oracle.sql.STRUCT@41f8045e	05/04/1981	married	F	F: 110,000 - 129,999	
+170	Harry Dean	Fonda	oracle.sql.STRUCT@181de58a	[+1 612 123 4419]	us	AMERICA	1200	HarryDean.Fonda@PLOVER.COM	145	oracle.sql.STRUCT@233a9ffd	15/04/1988	single	M	G: 130,000 - 149,999	
+171	Hema	Powell	oracle.sql.STRUCT@7d212951	[+1 507 123 4421]	us	AMERICA	1200	Hema.Powell@SANDERLING.COM	145	oracle.sql.STRUCT@7c7a185f	05/05/1953	married	M	D: 70,000 - 89,999	
+173	Kathleen	Walken	oracle.sql.STRUCT@b3c93ef	[+1 612 123 4434]	us	AMERICA	1200	Kathleen.Walken@VIREO.COM	145	oracle.sql.STRUCT@7c8e2002	04/06/1973	married	F	E: 90,000 - 109,999	
+174	Blake	Seignier	oracle.sql.STRUCT@811e563	[+1 315 123 4442]	us	AMERICA	1200	Blake.Seignier@GALLINULE.COM	149	oracle.sql.STRUCT@2405acde	14/06/1988	single	M	H: 150,000 - 169,999	
+175	Claude	Powell	oracle.sql.STRUCT@4b49e05a	[+1 315 123 4447]	us	AMERICA	1200	Claude.Powell@GODWIT.COM	149	oracle.sql.STRUCT@46ca4701	04/07/1946	married	M	F: 110,000 - 129,999	
+176	Faye	Glenn	oracle.sql.STRUCT@41f79846	[+1 716 123 4457]	us	AMERICA	1200	Faye.Glenn@GREBE.COM	149	oracle.sql.STRUCT@489dbffa	14/07/1947	single	F	B: 30,000 - 49,999	
+178	Grace	Belushi	oracle.sql.STRUCT@4c52dd83	[+1 518 123 4464]	us	AMERICA	1200	Grace.Belushi@KILLDEER.COM	149	oracle.sql.STRUCT@58346947	02/09/1986	married	M	H: 150,000 - 169,999	
+179	Harry dean	Forrest	oracle.sql.STRUCT@257cefaf	[+1 518 123 4474]	us	AMERICA	1200	Harrydean.Forrest@KISKADEE.COM	149	oracle.sql.STRUCT@3bf695	12/09/1974	single	M	G: 130,000 - 149,999	
+180	Harry dean	Cage	oracle.sql.STRUCT@5a5f9dd4	[+1 914 123 4494]	us	AMERICA	1200	Harrydean.Cage@LAPWING.COM	149	oracle.sql.STRUCT@215ab989	02/10/1975	married	F	F: 110,000 - 129,999	
+182	Lauren	Dench	oracle.sql.STRUCT@63192b9a	[+1 716 123 4575]	us	AMERICA	1200	Lauren.Dench@LONGSPUR.COM	149	oracle.sql.STRUCT@3cc9f632	22/10/1975	single	M	K: 250,000 - 299,999	
+183	Lauren	Altman	oracle.sql.STRUCT@1ade7d42	[+1 914 123 4578]	us	AMERICA	1200	Lauren.Altman@MERGANSER.COM	149	oracle.sql.STRUCT@6ebc0961	01/11/1968	married	F	C: 50,000 - 69,999	
+184	Mary Beth	Roberts	oracle.sql.STRUCT@4453bad7	[+1 315 123 4597]	us	AMERICA	1200	MaryBeth.Roberts@NUTHATCH.COM	149	oracle.sql.STRUCT@3758bc09	11/11/2027	single	M	A: Below 30,000	
+185	Matthew	Wright	oracle.sql.STRUCT@5e05f3cd	[+1 716 123 4599]	us	AMERICA	1200	Matthew.Wright@OVENBIRD.COM	149	oracle.sql.STRUCT@507c1e6d	01/12/1959	married	F	G: 130,000 - 149,999	
+187	Grace	Dvrrie	oracle.sql.STRUCT@9a093b7	[+1 518 123 4617]	us	AMERICA	1200	Grace.Dvrrie@PHOEBE.COM	149	oracle.sql.STRUCT@7b6ade7e	31/12/1948	married	F	E: 90,000 - 109,999	
+188	Charlotte	Buckley	oracle.sql.STRUCT@a00d145	[+1 518 123 4618]	us	AMERICA	1200	Charlotte.Buckley@PINTAIL.COM	149	oracle.sql.STRUCT@3a3f391e	10/01/1949	single	F	F: 110,000 - 129,999	
+189	Gena	Harris	oracle.sql.STRUCT@370f28c5	[+1 914 123 4619]	us	AMERICA	1200	Gena.Harris@PIPIT.COM	149	oracle.sql.STRUCT@1abb9974	30/01/1955	married	M	F: 110,000 - 129,999	
+191	Maureen	Sanders	oracle.sql.STRUCT@16bde99f	[+1 215 123 4644]	us	AMERICA	1200	Maureen.Sanders@PUFFIN.COM	149	oracle.sql.STRUCT@5589c59f	29/02/2024	married	M	A: Below 30,000	
+192	Sean	Stockwell	oracle.sql.STRUCT@1b8e86eb	[+1 610 123 4657]	us	AMERICA	1200	Sean.Stockwell@PYRRHULOXIA.COM	149	oracle.sql.STRUCT@5d38ccd7	30/03/1956	married	M	I: 170,000 - 189,999	
+193	Harry dean	Kinski	oracle.sql.STRUCT@24b037fe	[+1 412 123 4662]	us	AMERICA	1200	Harrydean.Kinski@REDPOLL.COM	149	oracle.sql.STRUCT@3f0ebbca	30/04/1955	married	M	D: 70,000 - 89,999	
+194	Kathleen	Garcia	oracle.sql.STRUCT@50d8cb1e	[+1 814 123 4663]	us	AMERICA	1200	Kathleen.Garcia@REDSTART.COM	149	oracle.sql.STRUCT@4b9dfba6	30/05/1971	married	F	I: 170,000 - 189,999	
+195	Sean	Olin	oracle.sql.STRUCT@6eb72aec	[+1 610 123 4664]	us	AMERICA	1200	Sean.Olin@SCAUP.COM	149	oracle.sql.STRUCT@24ad0c1b	09/06/1986	single	F	F: 110,000 - 129,999	
+196	Gerard	Dench	oracle.sql.STRUCT@323bb3ab	[+1 610 123 4667]	us	AMERICA	1200	Gerard.Dench@SCOTER.COM	149	oracle.sql.STRUCT@165f3e81	29/06/1953	married	F	E: 90,000 - 109,999	
+197	Gerard	Altman	oracle.sql.STRUCT@41e896ec	[+1 610 123 4669]	us	AMERICA	1200	Gerard.Altman@SHRIKE.COM	149	oracle.sql.STRUCT@d69871e	08/07/1984	single	F	F: 110,000 - 129,999	
+198	Maureen	de Funes	oracle.sql.STRUCT@6220cbf3	[+1 717 123 4674]	us	AMERICA	1200	Maureen.deFunes@SISKIN.COM	149	oracle.sql.STRUCT@d644a00	29/07/1949	married	F	D: 70,000 - 89,999	
+199	Clint	Chapman	oracle.sql.STRUCT@83ee2b6	[+1 215 123 4676]	us	AMERICA	1400	Clint.Chapman@SNIPE.COM	149	oracle.sql.STRUCT@492ec5d8	07/08/1952	single	F	F: 110,000 - 129,999	
+200	Clint	Gielgud	oracle.sql.STRUCT@2db5e05d	[+1 412 123 4681]	us	AMERICA	1400	Clint.Gielgud@STILT.COM	149	oracle.sql.STRUCT@2ae8ba1	28/08/1978	married	F	E: 90,000 - 109,999	
+201	Eric	Prashant	oracle.sql.STRUCT@7d7ae210	[+1 412 123 4684]	us	AMERICA	1400	Eric.Prashant@TATTLER.COM	149	oracle.sql.STRUCT@4245e862	27/09/1943	married	F	C: 50,000 - 69,999	
+202	Ingrid	Welles	oracle.sql.STRUCT@40f05f7f	[+1 412 123 4688]	us	AMERICA	1400	Ingrid.Welles@TEAL.COM	149	oracle.sql.STRUCT@36f52743	27/10/1939	married	M	D: 70,000 - 89,999	
+203	Ingrid	Rampling	oracle.sql.STRUCT@1c3539ef	[+1 412 123 4691]	us	AMERICA	1400	Ingrid.Rampling@WIGEON.COM	149	oracle.sql.STRUCT@715ec4f3	05/11/1948	single	M	F: 110,000 - 129,999	
+204	Cliff	Puri	oracle.sql.STRUCT@33976600	[+1 717 123 4692]	us	AMERICA	1400	Cliff.Puri@CORMORANT.COM	149	oracle.sql.STRUCT@2c47800e	26/11/1961	married	M	J: 190,000 - 249,999	
+205	Emily	Pollack	oracle.sql.STRUCT@19082e28	[+1 814 123 4696]	us	AMERICA	1400	Emily.Pollack@DIPPER.COM	149	oracle.sql.STRUCT@1ef608a6	06/12/1955	single	M	L: 300,000 and above	
+206	Fritz	Hackman	oracle.sql.STRUCT@1659da1e	[+1 814 123 4697]	us	AMERICA	1400	Fritz.Hackman@DUNLIN.COM	149	oracle.sql.STRUCT@68e7f2b	26/12/1983	married	F	G: 130,000 - 149,999	
+207	Cybill	Laughton	oracle.sql.STRUCT@5eaf68bc	[+1 412 123 4700]	us	AMERICA	1400	Cybill.Laughton@EIDER.COM	149	oracle.sql.STRUCT@7032e8f7	04/01/1989	single	M	F: 110,000 - 129,999	
+208	Cyndi	Griem	oracle.sql.STRUCT@28e345c5	[+1 814 123 4706]	us	AMERICA	1400	Cyndi.Griem@GALLINULE.COM	149	oracle.sql.STRUCT@5de110d5	25/01/1956	married	M	E: 90,000 - 109,999	
+209	Cyndi	Collins	oracle.sql.STRUCT@782e795d	[+1 215 123 4708]	us	AMERICA	1400	Cyndi.Collins@GODWIT.COM	149	oracle.sql.STRUCT@1fbc53ff	04/02/1946	single	M	D: 70,000 - 89,999	
+210	Cybill	Clapton	oracle.sql.STRUCT@2d43e0a0	[+1 610 123 4714]	us	AMERICA	1400	Cybill.Clapton@GOLDENEYE.COM	149	oracle.sql.STRUCT@78712a65	24/02/1974	married	F	D: 70,000 - 89,999	
+211	Luchino	Jordan	oracle.sql.STRUCT@739e40a7	[+1 412 123 4718]	us	AMERICA	1500	Luchino.Jordan@GREBE.COM	149	oracle.sql.STRUCT@ec0d680	06/03/1983	single	F	A: Below 30,000	
+212	Luchino	Falk	oracle.sql.STRUCT@3c346118	[+1 215 123 4721]	us	AMERICA	1500	Luchino.Falk@OVENBIRD.COM	149	oracle.sql.STRUCT@4d6746f9	25/03/1972	married	M	L: 300,000 and above	
+214	Robin	Danson	oracle.sql.STRUCT@4cfdac8a	[+1 412 123 4724]	us	AMERICA	1500	Robin.Danson@PHAINOPEPLA.COM	149	oracle.sql.STRUCT@44010743	05/05/1946	single	M	F: 110,000 - 129,999	
+215	Orson	Perkins	oracle.sql.STRUCT@5ba2827a	[+1 717 123 4730]	us	AMERICA	1900	Orson.Perkins@PINTAIL.COM	149	oracle.sql.STRUCT@2c855779	24/05/1985	married	M	E: 90,000 - 109,999	
+216	Orson	Koirala	oracle.sql.STRUCT@dbd379f	[+1 215 123 4738]	us	AMERICA	1900	Orson.Koirala@PIPIT.COM	149	oracle.sql.STRUCT@414a0274	04/06/1979	single	F	J: 190,000 - 249,999	
+218	Bryan	Dvrrie	oracle.sql.STRUCT@eb4e975	[+1 412 123 4740]	us	AMERICA	2300	Bryan.Dvrrie@REDPOLL.COM	149	oracle.sql.STRUCT@88c4945	04/07/1966	single	F	G: 130,000 - 149,999	
+219	Ajay	Sen	oracle.sql.STRUCT@6ce98604	[+1 717 123 4741]	us	AMERICA	2300	Ajay.Sen@TROGON.COM	149	oracle.sql.STRUCT@7da1704f	13/07/1977	single	M	K: 250,000 - 299,999	
+220	Carol	Jordan	oracle.sql.STRUCT@54f7c1cf	[+1 215 123 4743]	us	AMERICA	2300	Carol.Jordan@TURNSTONE.COM	149	oracle.sql.STRUCT@3e5b7c75	23/07/1976	married	M	I: 170,000 - 189,999	
+221	Carol	Bradford	oracle.sql.STRUCT@1ea2141c	[+1 610 123 4744]	us	AMERICA	2300	Carol.Bradford@VERDIN.COM	149	oracle.sql.STRUCT@68f72c8f	02/08/1953	single	M	G: 130,000 - 149,999	
+223	Cary	Olin	oracle.sql.STRUCT@26471e7	[+1 717 123 4746]	us	AMERICA	2300	Cary.Olin@WATERTHRUSH.COM	149	oracle.sql.STRUCT@67b90d0a	02/09/1935	single	M	D: 70,000 - 89,999	
+224	Clara	Krige	oracle.sql.STRUCT@6935e715	[+1 215 123 4748]	us	AMERICA	2300	Clara.Krige@WHIMBREL.COM	149	oracle.sql.STRUCT@38f72de8	22/09/1959	married	M	H: 150,000 - 169,999	
+225	Clara	Ganesan	oracle.sql.STRUCT@19bd8858	[+1 717 123 4752]	us	AMERICA	2300	Clara.Ganesan@WIGEON.COM	149	oracle.sql.STRUCT@36431738	02/10/1959	single	F	I: 170,000 - 189,999	
+227	Kathy	Prashant	oracle.sql.STRUCT@708843aa	[+1 814 123 4766]	us	AMERICA	2400	Kathy.Prashant@ANI.COM	149	oracle.sql.STRUCT@7191b83e	01/11/1983	single	M	J: 190,000 - 249,999	
+228	Graham	Neeson	oracle.sql.STRUCT@41b111c	[+1 412 123 4767]	us	AMERICA	2400	Graham.Neeson@AUKLET.COM	149	oracle.sql.STRUCT@2a4f2c70	20/11/1941	married	M	E: 90,000 - 109,999	
+229	Ian	Chapman	oracle.sql.STRUCT@18e8af80	[+1 215 123 4768]	us	AMERICA	2400	Ian.Chapman@AVOCET.COM	149	oracle.sql.STRUCT@64c4b4eb	30/11/1965	single	M	D: 70,000 - 89,999	
+230	Danny	Wright	oracle.sql.STRUCT@380bda9e	[+1 215 123 4771]	us	AMERICA	2400	Danny.Wright@BITTERN.COM	149	oracle.sql.STRUCT@6b745d43	20/12/1948	married	M	F: 110,000 - 129,999	
+232	Donald	Hunter	oracle.sql.STRUCT@36bd6b02	[+1 410 123 4795]	us	AMERICA	2400	Donald.Hunter@CHACHALACA.COM	145	oracle.sql.STRUCT@779fe2d2	20/01/1960	married	M	G: 130,000 - 149,999	
+233	Graham	Spielberg	oracle.sql.STRUCT@11261995	[+1 410 123 4800]	us	AMERICA	2400	Graham.Spielberg@CHUKAR.COM	145	oracle.sql.STRUCT@5871c0b7	29/01/1970	single	M	D: 70,000 - 89,999	
+234	Dan	Roberts	oracle.sql.STRUCT@54945c0	[+1 410 123 4805]	us	AMERICA	2400	Dan.Roberts@NUTHATCH.COM	145	oracle.sql.STRUCT@d48bec9	18/02/1973	married	M	I: 170,000 - 189,999	
+235	Edward	Oates	oracle.sql.STRUCT@2c83f444	[+1 410 012 4715	 +1 410 083 4715]	us	AMERICA	2400	Edward.Oates@OVENBIRD.COM	145	oracle.sql.STRUCT@7aa1ed1b	21/03/1955	married	M	E: 90,000 - 109,999
+237	Farrah	Quinlan	oracle.sql.STRUCT@3589d0ca	[+1 410 123 4812]	us	AMERICA	2400	Farrah.Quinlan@PHAINOPEPLA.COM	145	oracle.sql.STRUCT@7dff8e44	19/04/1948	married	M	A: Below 30,000	
+238	Farrah	Lange	oracle.sql.STRUCT@4e6d746b	[+1 410 123 4813]	us	AMERICA	2400	Farrah.Lange@PHALAROPE.COM	145	oracle.sql.STRUCT@3b519188	19/05/1981	married	M	F: 110,000 - 129,999	
+239	Hal	Stockwell	oracle.sql.STRUCT@40a519a8	[+1 301 123 4814]	us	AMERICA	2400	Hal.Stockwell@PHOEBE.COM	145	oracle.sql.STRUCT@41a92256	29/05/1966	single	M	H: 150,000 - 169,999	
+222	Cary	Stockwell	oracle.sql.STRUCT@64c2c824	[+1 215 123 4745]	us	AMERICA	2300	Cary.Stockwell@VIREO.COM	149	oracle.sql.STRUCT@53a8d8e5	23/08/1963	married	M	I: 170,000 - 189,999	
+226	Ajay	Andrews	oracle.sql.STRUCT@3b28e361	[+1 412 123 4763]	us	AMERICA	2300	Ajay.Andrews@YELLOWTHROAT.COM	149	oracle.sql.STRUCT@339bddc0	21/10/1956	married	M	F: 110,000 - 129,999	
+231	Danny	Rourke	oracle.sql.STRUCT@41eaa07f	[+1 301 123 4794]	us	AMERICA	2400	Danny.Rourke@BRANT.COM	145	oracle.sql.STRUCT@54903757	31/12/1947	single	M	F: 110,000 - 129,999	
+236	Edward	Julius	oracle.sql.STRUCT@285fe54f	[+1 301 123 4809]	us	AMERICA	2400	Edward.Julius@PARULA.COM	145	oracle.sql.STRUCT@45475859	30/03/1986	single	M	F: 110,000 - 129,999	
+261	Emmet	Garcia	oracle.sql.STRUCT@51baf1d6	[+1 716 123 4582]	us	AMERICA	3600	Emmet.Garcia@VIREO.COM	149	oracle.sql.STRUCT@4454e39	13/06/1961	married	M	H: 150,000 - 169,999	
+266	Prem	Cardinale	oracle.sql.STRUCT@5367a663	[+1 814 123 4755]	us	AMERICA	3700	Prem.Cardinale@BITTERN.COM	149	oracle.sql.STRUCT@2c1db9c6	01/09/1970	single	M	L: 300,000 and above	
+270	Meg	Derek	oracle.sql.STRUCT@2a2fd9d2	[+1 616 123 4166]	us	AMERICA	3700	Meg.Derek@FLICKER.COM	145	oracle.sql.STRUCT@4357e28	10/11/1971	married	M	F: 110,000 - 129,999	
+275	Dom	McQueen	oracle.sql.STRUCT@6a0f8473	[+1 518 123 4532]	us	AMERICA	5000	Dom.McQueen@AUKLET.COM	149	oracle.sql.STRUCT@2b9dc37d	08/02/1984	married	F	G: 130,000 - 149,999	
+279	Holly	Kurosawa	oracle.sql.STRUCT@7fa87e95	[+1 717 123 4679]	us	AMERICA	5000	Holly.Kurosawa@CARACARA.COM	149	oracle.sql.STRUCT@50438b76	19/04/1961	single	M	I: 170,000 - 189,999	
+283	Kurt	Heard	oracle.sql.STRUCT@46f9b111	[+1 410 123 4829]	us	AMERICA	5000	Kurt.Heard@CURLEW.COM	145	oracle.sql.STRUCT@33a0498	18/06/1994	single	M	H: 150,000 - 169,999	
+352	Kenneth	Redford	oracle.sql.STRUCT@3f5a9ebc	[+39 10 012 4381	 +39 10 083 4381]	i	ITALY	3600	Kenneth.Redford@REDSTART.COM	147		13/07/1971	single	F	B: 30,000 - 49,999
+378	Meg	Sen	oracle.sql.STRUCT@730eaa1a	[+66 76 012 4633	 +66 76 083 4633]	th	THAILAND	3700	Meg.Sen@COWBIRD.COM	149		30/09/1953	married	M	C: 50,000 - 69,999
+448	Richard	Winters	oracle.sql.STRUCT@7874fc53	[+39 2 012 4773]	i	ITALY	500	Richard.Winters@SNIPE.COM	147		30/11/1954	married	M	F: 110,000 - 129,999	
+452	Ridley	Coyote	oracle.sql.STRUCT@2b393901	[+39 49 012 4781]	i	ITALY	700	Ridley.Coyote@ANI.COM	147		31/01/1949	married	M	F: 110,000 - 129,999	
+463	Robin	Adjani	oracle.sql.STRUCT@40fdfda4	[+91 80 012 4803]	hi	INDIA	1500	Robin.Adjani@MOORHEN.COM	148		01/04/1949	married	F	C: 50,000 - 69,999	
+468	Rodolfo	Altman	oracle.sql.STRUCT@4625c1db	[+91 11 012 4813	 +91 11 083 4813]	hi	INDIA	5000	Rodolfo.Altman@SHRIKE.COM	148		11/05/1983	single	F	F: 110,000 - 129,999
+475	Romy	McCarthy	oracle.sql.STRUCT@19ec3b28	[+91 33 012 4827	 +91 33 083 4827]	hi	INDIA	5000	Romy.McCarthy@STILT.COM	148		10/07/1933	single	F	D: 70,000 - 89,999
+479	Roxanne	Shepherd	oracle.sql.STRUCT@7b7ff825	[+91 11 012 4835	 +91 11 083 4835]	hi	INDIA	1200	Roxanne.Shepherd@DUNLIN.COM	148		08/09/1963	single	F	I: 170,000 - 189,999
+483	Roy	Bates	oracle.sql.STRUCT@54403a33	[+91 80 012 4843	 +91 80 083 4843]	hi	INDIA	5000	Roy.Bates@WIGEON.COM	148		07/11/1942	single	M	G: 130,000 - 149,999
+731	Margaux	Capshaw	oracle.sql.STRUCT@3c030279	[+39 6 012 4539	 +39 6 083 4539]	i	ITALY	2400	Margaux.Capshaw@EIDER.COM	147		02/10/1933	single	M	B: 30,000 - 49,999
+757	Kiefer	Reynolds	oracle.sql.STRUCT@444e4baa	[+39 6 012 4391]	i	ITALY	700	Kiefer.Reynolds@AVOCET.COM	147		21/12/1953	married	M	F: 110,000 - 129,999	
+769	Kris	Harris	oracle.sql.STRUCT@40742dd6	[+39 49 012 4415]	i	ITALY	400	Kris.Harris@DIPPER.COM	147		19/02/1949	married	M	G: 130,000 - 149,999	
+772	Kristin	Savage	oracle.sql.STRUCT@15b00649	[+39 10 012 4421]	i	ITALY	400	Kristin.Savage@CURLEW.COM	147		01/04/1943	single	F	F: 110,000 - 129,999	
+827	Alain	Siegel	oracle.sql.STRUCT@3184ce4c	[+41 58 012 3531]	d	SWITZERLAND	500	Alain.Siegel@VIREO.COM	147		19/06/1973	married	F	I: 170,000 - 189,999	
+831	Albert	Bel Geddes	oracle.sql.STRUCT@7a1d0cd	[+41 62 012 3539	 +41 62 083 3539]	d	SWITZERLAND	3500	Albert.BelGeddes@DIPPER.COM	147		17/09/1952	married	M	E: 90,000 - 109,999
+835	Alexander	Eastwood	oracle.sql.STRUCT@66da4772	[+41 66 012 3547]	d	SWITZERLAND	1200	Alexander.Eastwood@AVOCET.COM	147		16/11/1942	married	F	E: 90,000 - 109,999	
+839	Alfred	Johnson	oracle.sql.STRUCT@734d97ae	[+41 81 012 3555]	d	SWITZERLAND	3500	Alfred.Johnson@FLICKER.COM	147		14/02/1957	married	M	J: 190,000 - 249,999	
+843	Alice	Oates	oracle.sql.STRUCT@642cd125	[+41 4 012 3563]	d	SWITZERLAND	700	Alice.Oates@BECARD.COM	147		25/04/1959	single	F	D: 70,000 - 89,999	
+846	Ally	Brando	oracle.sql.STRUCT@6d8242d5	[+41 31 012 3569	 +41 31 083 3569]	d	SWITZERLAND	5000	Ally.Brando@PINTAIL.COM	147		14/06/1962	married	F	L: 300,000 and above
+928	Burt	Spielberg	oracle.sql.STRUCT@595769c0	[+91 80 012 3733	 +91 80 083 3733]	hi	INDIA	5000	Burt.Spielberg@TROGON.COM	148		09/06/1954	married	M	E: 90,000 - 109,999
+932	Buster	Bogart	oracle.sql.STRUCT@463865a3	[+91 80 012 3741]	hi	INDIA	900	Buster.Bogart@KISKADEE.COM	148		17/08/1952	single	M	H: 150,000 - 169,999	
+496	Scott	Jordan	oracle.sql.STRUCT@449f31b8	[+91 80 012 4869]	hi	INDIA	5000	Scott.Jordan@WILLET.COM	148		25/01/1945	married	F	G: 130,000 - 149,999	
+605	Shammi	Pacino	oracle.sql.STRUCT@3bf44714	[+91 80 012 4887]	hi	INDIA	500	Shammi.Pacino@BITTERN.COM	148		05/02/1959	single	F	B: 30,000 - 49,999	
+606	Sharmila	Kazan	oracle.sql.STRUCT@598f20c3	[+91 80 012 4889]	hi	INDIA	500	Sharmila.Kazan@BRANT.COM	148		25/02/1938	married	F	D: 70,000 - 89,999	
+607	Sharmila	Fonda	oracle.sql.STRUCT@5c1f532c	[+91 80 012 4891]	hi	INDIA	500	Sharmila.Fonda@BUFFLEHEAD.COM	148		06/03/1949	single	F	H: 150,000 - 169,999	
+609	Shelley	Taylor	oracle.sql.STRUCT@61b0bbe6	[+91 141 012 4895	 +91 141 083 4895]	hi	INDIA	3700	Shelley.Taylor@CURLEW.COM	148		26/03/1957	married	F	I: 170,000 - 189,999
+615	Shyam	Plummer	oracle.sql.STRUCT@78658c23	[+91 80 012 4907]	hi	INDIA	2500	Shyam.Plummer@VEERY.COM	148		25/04/1969	married	M	J: 190,000 - 249,999	
+621	Silk	Kurosawa	oracle.sql.STRUCT@584c22d4	[+91 80 012 4919]	hi	INDIA	1500	Silk.Kurosawa@NUTHATCH.COM	148		05/05/1984	single	F	G: 130,000 - 149,999	
+627	Sivaji	Gielgud	oracle.sql.STRUCT@7e6c9cc2	[+91 80 012 4931]	hi	INDIA	500	Sivaji.Gielgud@BULBUL.COM	148		25/05/1949	married	F	D: 70,000 - 89,999	
+712	M. Emmet	Stockwell	oracle.sql.STRUCT@1a676762	[+39 6 012 4501	 +39 6 083 4501]	i	ITALY	3700	M.Emmet.Stockwell@COOT.COM	147		05/06/1983	single	M	H: 150,000 - 169,999
+713	M. Emmet	Olin	oracle.sql.STRUCT@4eb7e499	[+39 6 012 4503	 +39 6 083 4503]	i	ITALY	3700	M.Emmet.Olin@CORMORANT.COM	147		24/06/1948	married	F	F: 110,000 - 129,999
+715	Malcolm	Field	oracle.sql.STRUCT@77d43519	[+39 6 012 4507	 +39 6 083 4507]	i	ITALY	2400	Malcolm.Field@DOWITCHER.COM	147		05/07/1951	single	F	G: 130,000 - 149,999
+717	Mammutti	Sutherland	oracle.sql.STRUCT@6dc43dad	[+39 6 012 4511]	i	ITALY	500	Mammutti.Sutherland@TOWHEE.COM	147		25/07/1974	married	M	D: 70,000 - 89,999	
+719	Mani	Kazan	oracle.sql.STRUCT@4c390b00	[+39 6 012 4515]	i	ITALY	500	Mani.Kazan@TROGON.COM	147		04/08/1962	single	M	I: 170,000 - 189,999	
+721	Mani	Buckley	oracle.sql.STRUCT@3d5bbd32	[+39 6 012 4519]	i	ITALY	500	Mani.Buckley@TURNSTONE.COM	147		23/08/1944	married	M	E: 90,000 - 109,999	
+727	Margaret	Ustinov	oracle.sql.STRUCT@6bf12b7d	[+39 6 012 4531]	i	ITALY	1200	Margaret.Ustinov@ANHINGA.COM	147		02/09/1949	single	M	H: 150,000 - 169,999	
+729	Margaux	Krige	oracle.sql.STRUCT@27145afb	[+39 6 012 4535	 +39 6 083 4535]	i	ITALY	2400	Margaux.Krige@DUNLIN.COM	147		23/09/1942	married	M	F: 110,000 - 129,999
+754	Kevin	Goodman	oracle.sql.STRUCT@23f12412	[+39 10 012 4385]	i	ITALY	700	Kevin.Goodman@WIGEON.COM	147		22/10/1948	married	M	E: 90,000 - 109,999	
+755	Kevin	Cleveland	oracle.sql.STRUCT@4323bf73	[+39 10 012 4387]	i	ITALY	700	Kevin.Cleveland@WILLET.COM	147		21/11/1981	married	M	H: 150,000 - 169,999	
+756	Kevin	Wilder	oracle.sql.STRUCT@216bdea9	[+39 6 012 4389]	i	ITALY	700	Kevin.Wilder@AUKLET.COM	147		02/12/1986	single	M	G: 130,000 - 149,999	
+766	Klaus	Young	oracle.sql.STRUCT@24ad8bfd	[+39 49 012 4409]	i	ITALY	600	Klaus.Young@OVENBIRD.COM	147		01/01/1955	single	M	H: 150,000 - 169,999	
+767	Klaus Maria	Russell	oracle.sql.STRUCT@ed6face	[+39 49 012 4411]	i	ITALY	100	KlausMaria.Russell@COOT.COM	147		20/01/1970	married	M	C: 50,000 - 69,999	
+768	Klaus Maria	MacLaine	oracle.sql.STRUCT@50500440	[+39 10 012 4413]	i	ITALY	100	KlausMaria.MacLaine@CHUKAR.COM	147		31/01/1980	single	M	A: Below 30,000	
+770	Kris	Curtis	oracle.sql.STRUCT@2f310675	[+39 49 012 4417]	i	ITALY	400	Kris.Curtis@DOWITCHER.COM	147		02/03/1955	single	M	K: 250,000 - 299,999	
+771	Kris	de Niro	oracle.sql.STRUCT@670b820d	[+39 49 012 4419]	i	ITALY	400	Kris.deNiro@DUNLIN.COM	147		21/03/1977	married	M	E: 90,000 - 109,999	
+782	Laurence	Seignier	oracle.sql.STRUCT@5eb204a8	[+66 76 012 4441]	th	THAILAND	1200	Laurence.Seignier@CREEPER.COM	149		21/04/1983	married	M	F: 110,000 - 129,999	
+825	Alain	Dreyfuss	oracle.sql.STRUCT@e10693a	[+41 56 012 3527]	d	SWITZERLAND	500	Alain.Dreyfuss@VEERY.COM	147		30/04/1976	single	M	J: 190,000 - 249,999	
+826	Alain	Barkin	oracle.sql.STRUCT@2935c423	[+41 57 012 3529]	d	SWITZERLAND	500	Alain.Barkin@VERDIN.COM	147		20/05/1969	married	M	A: Below 30,000	
+828	Alan	Minnelli	oracle.sql.STRUCT@121530e2	[+41 59 012 3533	 +41 59 083 3533]	d	SWITZERLAND	2300	Alan.Minnelli@TANAGER.COM	147		20/07/1955	married	M	D: 70,000 - 89,999
+829	Alan	Hunter	oracle.sql.STRUCT@5ccce14c	[+41 60 012 3535	 +41 60 083 3535]	d	SWITZERLAND	2300	Alan.Hunter@TATTLER.COM	147		19/08/1959	married	M	I: 170,000 - 189,999
+830	Albert	Dutt	oracle.sql.STRUCT@51180a56	[+41 61 012 3537	 +41 61 083 3537]	d	SWITZERLAND	3500	Albert.Dutt@CURLEW.COM	147		29/08/1947	single	M	F: 110,000 - 129,999
+832	Albert	Spacek	oracle.sql.STRUCT@568bd88a	[+41 63 012 3541	 +41 63 083 3541]	d	SWITZERLAND	3500	Albert.Spacek@DOWITCHER.COM	147		27/09/1976	single	M	F: 110,000 - 129,999
+833	Alec	Moranis	oracle.sql.STRUCT@6da26099	[+41 64 012 3543	 +41 64 083 3543]	d	SWITZERLAND	3500	Alec.Moranis@DUNLIN.COM	147		17/10/1934	married	M	D: 70,000 - 89,999
+834	Alec	Idle	oracle.sql.STRUCT@565f3ae0	[+41 65 012 3545	 +41 65 083 3545]	d	SWITZERLAND	3500	Alec.Idle@EIDER.COM	147		27/10/1964	single	M	F: 110,000 - 129,999
+836	Alexander	Berenger	oracle.sql.STRUCT@4704d0c7	[+41 67 012 3549]	d	SWITZERLAND	1200	Alexander.Berenger@BECARD.COM	147		16/12/1952	married	F	C: 50,000 - 69,999	
+837	Alexander	Stanton	oracle.sql.STRUCT@4f430f25	[+41 2 012 3551	 +41 2 083 3551]	d	SWITZERLAND	1200	Alexander.Stanton@AUKLET.COM	147		15/01/1965	married	F	D: 70,000 - 89,999
+838	Alfred	Nicholson	oracle.sql.STRUCT@311b18fc	[+41 3 012 3553	 +41 3 083 3553]	d	SWITZERLAND	3500	Alfred.Nicholson@CREEPER.COM	147		25/01/1985	single	M	F: 110,000 - 129,999
+840	Ali	Elliott	oracle.sql.STRUCT@1ebcac05	[+41 81 012 3557]	d	SWITZERLAND	1400	Ali.Elliott@ANHINGA.COM	147		16/03/1951	married	M	G: 130,000 - 149,999	
+841	Ali	Boyer	oracle.sql.STRUCT@7fdfc5fd	[+41 71 012 3559]	d	SWITZERLAND	1400	Ali.Boyer@WILLET.COM	147		26/03/1951	single	M	F: 110,000 - 129,999	
+842	Ali	Stern	oracle.sql.STRUCT@2832c704	[+41 71 012 3561]	d	SWITZERLAND	1400	Ali.Stern@YELLOWTHROAT.COM	147		15/04/1977	married	M	E: 90,000 - 109,999	
+844	Alice	Julius	oracle.sql.STRUCT@4107e606	[+41 6 012 3565]	d	SWITZERLAND	700	Alice.Julius@BITTERN.COM	147		15/05/1944	married	F	D: 70,000 - 89,999	
+845	Ally	Fawcett	oracle.sql.STRUCT@3a20a6a7	[+41 7 012 3567	 +41 7 083 3567]	d	SWITZERLAND	5000	Ally.Fawcett@PLOVER.COM	147		25/05/1944	single	F	A: Below 30,000
+847	Ally	Streep	oracle.sql.STRUCT@3bd17c33	[+41 68 012 3571	 +41 68 083 3571]	d	SWITZERLAND	5000	Ally.Streep@PIPIT.COM	147		14/07/1942	married	M	A: Below 30,000
+848	Alonso	Olmos	oracle.sql.STRUCT@56596aa	[+41 5 012 3573	 +41 5 083 3573]	d	SWITZERLAND	1800	Alonso.Olmos@PHALAROPE.COM	147		24/07/1948	single	F	F: 110,000 - 129,999
+849	Alonso	Kaurusmdki	oracle.sql.STRUCT@7bac67d6	[+41 8 012 3575	 +41 8 083 3575]	d	SWITZERLAND	1800	Alonso.Kaurusmdki@PHOEBE.COM	147		13/08/1980	married	F	E: 90,000 - 109,999
+850	Amanda	Finney	oracle.sql.STRUCT@4486e39a	[+41 1 012 3577	 +41 1 083 3577]	d	SWITZERLAND	2300	Amanda.Finney@STILT.COM	147		23/08/1991	single	M	J: 190,000 - 249,999
+851	Amanda	Brown	oracle.sql.STRUCT@74063fdd	[+41 9 012 3579	 +41 9 083 3579]	d	SWITZERLAND	2300	Amanda.Brown@THRASHER.COM	147		12/09/1951	married	F	B: 30,000 - 49,999
+852	Amanda	Tanner	oracle.sql.STRUCT@5d7f3731	[+41 69 012 3581	 +41 69 083 3581]	d	SWITZERLAND	2300	Amanda.Tanner@TEAL.COM	147		22/09/1953	single	F	G: 130,000 - 149,999
+853	Amrish	Palin	oracle.sql.STRUCT@45f5799f	[+41 70 012 3583]	d	SWITZERLAND	400	Amrish.Palin@EIDER.COM	147		12/10/1977	married	F	I: 170,000 - 189,999	
+905	Billy	Hershey	oracle.sql.STRUCT@361cd888	[+91 80 012 3687]	hi	INDIA	1400	Billy.Hershey@BULBUL.COM	148		22/10/1987	single	F	G: 130,000 - 149,999	
+906	Billy	Dench	oracle.sql.STRUCT@7321f141	[+91 80 012 3689]	hi	INDIA	1400	Billy.Dench@CARACARA.COM	148		11/11/1958	married	M	I: 170,000 - 189,999	
+909	Blake	Mastroianni	oracle.sql.STRUCT@574396ab	[+91 80 012 3695]	hi	INDIA	1200	Blake.Mastroianni@FLICKER.COM	148		21/11/1949	single	M	D: 70,000 - 89,999	
+911	Bo	Dickinson	oracle.sql.STRUCT@3994245d	[+91 80 012 3699	 +91 80 083 3699]	hi	INDIA	5000	Bo.Dickinson@TANAGER.COM	148		11/12/1981	married	M	H: 150,000 - 169,999
+912	Bo	Ashby	oracle.sql.STRUCT@699c737f	[+91 80 012 3701	 +91 80 083 3701]	hi	INDIA	5000	Bo.Ashby@TATTLER.COM	148		21/12/1956	single	M	I: 170,000 - 189,999
+913	Bob	Sharif	oracle.sql.STRUCT@15cb2cf4	[+91 80 012 3703	 +91 80 083 3703]	hi	INDIA	5000	Bob.Sharif@TEAL.COM	148		10/01/1985	married	M	F: 110,000 - 129,999
+916	Brian	Douglas	oracle.sql.STRUCT@5e760628	[+91 80 012 3709]	hi	INDIA	500	Brian.Douglas@AVOCET.COM	148		20/01/1978	single	M	J: 190,000 - 249,999	
+917	Brian	Baldwin	oracle.sql.STRUCT@46d86777	[+91 80 012 3711]	hi	INDIA	500	Brian.Baldwin@BECARD.COM	148		09/02/1975	married	M	E: 90,000 - 109,999	
+919	Brooke	Michalkow	oracle.sql.STRUCT@4c55f358	[+91 80 012 3715]	hi	INDIA	3500	Brooke.Michalkow@GROSBEAK.COM	148		19/02/1962	single	M	D: 70,000 - 89,999	
+920	Bruce	Hulce	oracle.sql.STRUCT@35daaa	[+91 80 012 3717]	hi	INDIA	3500	Bruce.Hulce@JACANA.COM	148		10/03/1972	married	M	F: 110,000 - 129,999	
+921	Bruce	Dunaway	oracle.sql.STRUCT@6e1ccbc2	[+91 80 012 3719	 +91 80 083 3719]	hi	INDIA	3500	Bruce.Dunaway@JUNCO.COM	148		20/03/1948	single	F	F: 110,000 - 129,999
+923	Bruno	Slater	oracle.sql.STRUCT@6bfaeaa9	[+91 80 012 3723	 +91 80 083 3723]	hi	INDIA	5000	Bruno.Slater@THRASHER.COM	148		09/04/1960	married	F	G: 130,000 - 149,999
+924	Bruno	Montand	oracle.sql.STRUCT@8d60bbd	[+91 80 012 3725	 +91 80 083 3725]	hi	INDIA	5000	Bruno.Montand@TOWHEE.COM	148		20/04/1934	single	F	D: 70,000 - 89,999
+927	Bryan	Belushi	oracle.sql.STRUCT@26186087	[+91 80 012 3731	 +91 80 083 3731]	hi	INDIA	2300	Bryan.Belushi@TOWHEE.COM	148		10/05/1961	married	M	I: 170,000 - 189,999
+929	Burt	Neeson	oracle.sql.STRUCT@2e52fd5d	[+91 80 012 3735	 +91 80 083 3735]	hi	INDIA	5000	Burt.Neeson@TURNSTONE.COM	148		19/06/1978	single	M	F: 110,000 - 129,999
+930	Buster	Jackson	oracle.sql.STRUCT@12c1f59c	[+91 80 012 3737]	hi	INDIA	900	Buster.Jackson@KILLDEER.COM	148		08/07/2024	married	M	A: Below 30,000	
+931	Buster	Edwards	oracle.sql.STRUCT@2af29f9a	[+91 80 012 3739]	hi	INDIA	900	Buster.Edwards@KINGLET.COM	148		08/08/1947	married	M	F: 110,000 - 129,999	
+934	C. Thomas	Nolte	oracle.sql.STRUCT@4f0bce1b	[+91 80 012 3745]	hi	INDIA	600	C.Thomas.Nolte@PHOEBE.COM	148		07/09/1959	married	M	H: 150,000 - 169,999	
+980	Daniel	Loren	oracle.sql.STRUCT@760a6ab2	[+91 80 012 3837]	hi	INDIA	200	Daniel.Loren@REDSTART.COM	148		17/09/1970	single	M	F: 110,000 - 129,999	
+981	Daniel	Gueney	oracle.sql.STRUCT@6b7a0cfa	[+86 10 012 3839]	zhs	CHINA	200	Daniel.Gueney@REDPOLL.COM	148		07/10/1973	married	M	K: 250,000 - 299,999	
+119	Maurice	Hasan	oracle.sql.STRUCT@554a5040	[+1 517 123 4191]	us	AMERICA	200	Maurice.Hasan@STILT.COM	145	oracle.sql.STRUCT@442027e4	17/12/1965	married	M	G: 130,000 - 149,999	
+124	Diane	Mason	oracle.sql.STRUCT@61da9a28	[+1 313 123 4222]	us	AMERICA	200	Diane.Mason@TROGON.COM	145	oracle.sql.STRUCT@5afc5735	16/03/1981	married	F	K: 250,000 - 299,999	
+128	Isabella	Reed	oracle.sql.STRUCT@5db3c47a	[+1 313 123 4230]	us	AMERICA	300	Isabella.Reed@BRANT.COM	145	oracle.sql.STRUCT@1869c72f	16/05/1954	married	F	J: 190,000 - 249,999	
+133	Kristin	Malden	oracle.sql.STRUCT@2dd715d0	[+1 517 123 4253]	us	AMERICA	400	Kristin.Malden@GODWIT.COM	145	oracle.sql.STRUCT@152abaa0	14/08/1950	married	F	C: 50,000 - 69,999	
+137	Elia	Brando	oracle.sql.STRUCT@56f93c6b	[+1 319 123 4271]	us	AMERICA	500	Elia.Brando@JUNCO.COM	145	oracle.sql.STRUCT@ffd924	23/10/1951	single	M	H: 150,000 - 169,999	
+142	Sachin	Spielberg	oracle.sql.STRUCT@1593357e	[+1 319 123 4288]	us	AMERICA	500	Sachin.Spielberg@GADWALL.COM	145	oracle.sql.STRUCT@552c72d6	11/01/1971	married	M	C: 50,000 - 69,999	
+146	Elia	Fawcett	oracle.sql.STRUCT@4aa9067c	[+1 414 123 4307]	us	AMERICA	500	Elia.Fawcett@JACANA.COM	145	oracle.sql.STRUCT@3461d0f4	12/03/1963	married	F	L: 300,000 and above	
+168	Hema	Voight	oracle.sql.STRUCT@38d52bc3	[+1 612 123 4408]	us	AMERICA	1200	Hema.Voight@PHALAROPE.COM	145	oracle.sql.STRUCT@e5944cd	16/03/1950	single	M	H: 150,000 - 169,999	
+172	Harry Mean	Peckinpah	oracle.sql.STRUCT@c41299c	[+1 218 123 4429]	us	AMERICA	1200	HarryMean.Peckinpah@VERDIN.COM	145	oracle.sql.STRUCT@369dbe90	15/05/1959	single	M	I: 170,000 - 189,999	
+177	Gerhard	Seignier	oracle.sql.STRUCT@270700b3	[+1 518 123 4459]	us	AMERICA	1200	Gerhard.Seignier@JACANA.COM	149	oracle.sql.STRUCT@633c57b2	03/08/1978	married	M	E: 90,000 - 109,999	
+181	Lauren	Hershey	oracle.sql.STRUCT@66349f80	[+1 518 123 4496]	us	AMERICA	1200	Lauren.Hershey@LIMPKIN.COM	149	oracle.sql.STRUCT@3d86c4e8	12/10/1965	single	F	H: 150,000 - 169,999	
+186	Meena	Alexander	oracle.sql.STRUCT@229b4973	[+1 716 123 4605]	us	AMERICA	1200	Meena.Alexander@PARULA.COM	149	oracle.sql.STRUCT@239b1b55	11/12/1961	single	F	K: 250,000 - 299,999	
+190	Gena	Curtis	oracle.sql.STRUCT@61914839	[+1 518 123 4624]	us	AMERICA	1200	Gena.Curtis@PLOVER.COM	149	oracle.sql.STRUCT@6abb7167	09/02/1982	single	M	J: 190,000 - 249,999	
+213	Luchino	Bradford	oracle.sql.STRUCT@12137d92	[+1 814 123 4722]	us	AMERICA	1500	Luchino.Bradford@PARULA.COM	149	oracle.sql.STRUCT@69a98d36	24/04/1976	married	M	A: Below 30,000	
+217	Bryan	Huston	oracle.sql.STRUCT@212c0ba	[+1 717 123 4739]	us	AMERICA	2300	Bryan.Huston@PYRRHULOXIA.COM	149	oracle.sql.STRUCT@3393a9d6	23/06/1973	married	F	B: 30,000 - 49,999	
+666	Adal	Cerrillo	oracle.sql.STRUCT@212c0ba	[+1 717 123 4739]	us	AMERICA	2300	AHM@PYRRHULOXIA.COM	149	oracle.sql.STRUCT@3393a9d6	23/06/1973	married	M	B: 30,000 - 49,999
+666	Adal	Cerrillo	oracle.sql.STRUCT@212c0ba	[+1 717 123 4739]	us	AMERICA	2300	AHM@PYRRHULOXIA.COM	149	oracle.sql.STRUCT@3393a9d6	23/06/1973	married	M	B: 30,000 - 49,999
+666	Adal	Cerrillo	oracle.sql.STRUCT@212c0ba	[+1 717 123 4739]	us	AMERICA	2300	AHM@PYRRHULOXIA.COM	149	oracle.sql.STRUCT@3393a9d6	23/06/1973	married	M	B: 30,000 - 49,999
+666	Adal	Cerrillo	oracle.sql.STRUCT@212c0ba	[+1 717 123 4739]	us	AMERICA	2300	AHM@PYRRHULOXIA.COM	149	oracle.sql.STRUCT@3393a9d6	23/06/1973	married	M	B: 30,000 - 49,999

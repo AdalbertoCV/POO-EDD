@@ -1,0 +1,108 @@
+package pruebas.PruebasEstructurasnolineales;
+
+import entradasalida.SalidaPorDefecto;
+import enumerados.TipoOrden;
+import estructurasnolineales.Monticulo;
+
+public class PruebaMonticulo {
+    public static void main (String args[]){
+        Monticulo monticulo = new Monticulo(TipoOrden.INCR);
+        SalidaPorDefecto.consola("Prueba Monticulo Ascendente, impresiones postorden: \n");
+        SalidaPorDefecto.consola("Insertando nodo 12 \n");
+        monticulo.insertar(12);
+        monticulo.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Insertando nodo 18 \n");
+        monticulo.insertar(18);
+        monticulo.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Insertando nodo 10 \n");
+        monticulo.insertar(10);
+        monticulo.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Insertando nodo 20 \n");
+        monticulo.insertar(20);
+        monticulo.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Insertando nodo 2 \n");
+        monticulo.insertar(2);
+        monticulo.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Insertando nodo 40 \n");
+        monticulo.insertar(40);
+        monticulo.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Insertando nodo 7 \n");
+        monticulo.insertar(7);
+        monticulo.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("\n");
+
+        SalidaPorDefecto.consola("Prueba Eliminar \n");
+        monticulo.eliminar();
+        monticulo.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Prueba Eliminar \n");
+        monticulo.eliminar();
+        monticulo.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Prueba Eliminar \n");
+        monticulo.eliminar();
+        monticulo.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Prueba Eliminar \n");
+        monticulo.eliminar();
+        monticulo.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("\n");
+
+        Monticulo monticuloDesc = new Monticulo(TipoOrden.DECR);
+        SalidaPorDefecto.consola("Prueba Monticulo Descendente, impresiones postorden: \n");
+        monticuloDesc.insertar(12);
+        SalidaPorDefecto.consola("Insertando nodo 12 \n");
+        monticuloDesc.postorden();
+        SalidaPorDefecto.consola("\n");
+        monticuloDesc.insertar(18);
+        SalidaPorDefecto.consola("Insertando nodo 18 \n");
+        monticuloDesc.postorden();
+        SalidaPorDefecto.consola("\n");
+        monticuloDesc.insertar(10);
+        SalidaPorDefecto.consola("Insertando nodo 10 \n");
+        monticuloDesc.postorden();
+        SalidaPorDefecto.consola("\n");
+        monticuloDesc.insertar(20);
+        SalidaPorDefecto.consola("Insertando nodo 20 \n");
+        monticuloDesc.postorden();
+        SalidaPorDefecto.consola("\n");
+        monticuloDesc.insertar(2);
+        SalidaPorDefecto.consola("Insertando nodo 2 \n");
+        monticuloDesc.postorden();
+        SalidaPorDefecto.consola("\n");
+        monticuloDesc.insertar(40);
+        SalidaPorDefecto.consola("Insertando nodo 40 \n");
+        monticuloDesc.postorden();
+        SalidaPorDefecto.consola("\n");
+        monticuloDesc.insertar(7);
+        SalidaPorDefecto.consola("Insertando nodo 7 \n");
+        monticuloDesc.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("\n");
+
+        SalidaPorDefecto.consola("Prueba Eliminar \n");
+        monticuloDesc.eliminar();
+        monticuloDesc.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Prueba Eliminar \n");
+        monticuloDesc.eliminar();
+        monticuloDesc.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Prueba Eliminar \n");
+        monticuloDesc.eliminar();
+        monticuloDesc.postorden();
+        SalidaPorDefecto.consola("\n");
+        SalidaPorDefecto.consola("Prueba Eliminar \n");
+        monticuloDesc.eliminar();
+        monticuloDesc.postorden();
+        SalidaPorDefecto.consola("\n");
+    }
+}

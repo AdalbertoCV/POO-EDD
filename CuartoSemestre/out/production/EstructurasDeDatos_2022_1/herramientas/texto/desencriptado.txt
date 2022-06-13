@@ -1,0 +1,5 @@
+Estructuras de Datos 
+segunda linea 
+linea 3 
+hola esta es la lnea 4 
+ultima de las lineas del archivo

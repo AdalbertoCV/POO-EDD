@@ -1,0 +1,23 @@
+CATEGORY_NAME	CATEGORY_DESCRIPTION	CATEGORY_ID	PARENT_CATEGORY_ID
+hardware1	monitors	11	10
+hardware2	printers	12	10
+hardware3	harddisks	13	10
+hardware4	memory components/upgrades	14	10
+hardware5	processors, sound and video cards, network cards, motherboards	15	10
+hardware6	keyboards, mouses, mouse pads	16	10
+hardware7	other peripherals (CD-ROM, DVD, tape cartridge drives, ...)	17	10
+hardware8	miscellaneous hardware (cables, screws, power supplies ...)	19	10
+software1	spreadsheet software	21	20
+software2	word processing software	22	20
+software3	database software	23	20
+software4	operating systems	24	20
+software5	software development tools (including languages)	25	20
+software6	miscellaneous software	29	20
+office1	capitalizable assets (desks, chairs, phones ...)	31	30
+office2	office supplies for daily use (pencils, erasers, staples, ...)	32	30
+office3	manuals, other books	33	30
+office4	miscellaneous office supplies	39	30
+hardware	computer hardware and peripherals	10	90
+software	computer software	20	90
+office equipment	office furniture and supplies	30	90
+online catalog	catalog of computer hardware, software, and office equipment	90	

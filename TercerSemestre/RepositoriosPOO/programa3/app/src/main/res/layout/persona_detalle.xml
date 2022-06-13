@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container_persona_detalle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="poo2.prog3.clientecontrolconcursos.DetallePersonaActivity">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:indeterminateDrawable="@drawable/circular_spinner"></ProgressBar>
+    <EditText
+            android:layout_width="265dp"
+            android:layout_height="37dp"
+            android:inputType="textCapWords"
+            android:ems="10"
+            android:id="@+id/edit_email_persona" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="16dp" app:layout_constraintHorizontal_bias="0.316"
+            android:hint="@string/str_email_persona" android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="262dp"
+            android:layout_height="33dp"
+            android:inputType="textCapWords"
+            android:ems="10"
+            android:id="@+id/edit_nombre_persona"
+            app:layout_constraintTop_toTopOf="@+id/edit_email_persona"
+            android:layout_marginTop="44dp" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.308"
+            android:hint="@string/str_nombre_persona" android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="263dp"
+            android:layout_height="33dp"
+            android:inputType="textCapWords"
+            android:ems="10"
+            android:id="@+id/edit_apellidos_persona"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.324"
+            app:layout_constraintTop_toBottomOf="@+id/edit_nombre_persona" android:layout_marginTop="8dp"
+            android:hint="@string/str_apellidos_persona" android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="266dp"
+            android:layout_height="30dp"
+            android:inputType="textCapWords"
+            android:ems="10"
+            android:id="@+id/edit_sexo_persona"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edit_apellidos_persona" android:layout_marginTop="8dp"
+            app:layout_constraintHorizontal_bias="0.331" android:hint="@string/str_sexo_persona"
+            android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="269dp"
+            android:layout_height="34dp"
+            android:inputType="textPostalAddress"
+            android:ems="10"
+            android:id="@+id/edit_calle_num_persona"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edit_sexo_persona" app:layout_constraintHorizontal_bias="0.323"
+            android:hint="@string/str_calle_num_persona" android:layout_marginTop="4dp"
+            android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="263dp"
+            android:layout_height="30dp"
+            android:inputType="textPostalAddress"
+            android:ems="10"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edit_calle_num_persona"
+            app:layout_constraintHorizontal_bias="0.304" android:id="@+id/edit_colonia_persona"
+            android:hint="@string/str_colonia_persona" android:layout_marginTop="4dp"
+            android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="262dp"
+            android:layout_height="36dp"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/edit_id_municipio_persona"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edit_colonia_persona" app:layout_constraintHorizontal_bias="0.322"
+            android:layout_marginTop="4dp" android:hint="@string/str_id_municipio_persona"
+            android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="264dp"
+            android:layout_height="33dp"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/edit_id_entidad_persona"
+            android:hint="@string/str_id_entidad_persona" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.312"
+            app:layout_constraintTop_toBottomOf="@+id/edit_id_municipio_persona" android:layout_marginTop="4dp"
+            android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="267dp"
+            android:layout_height="29dp"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/edit_codpostal_persona"
+            android:hint="@string/str_codpostal_persona" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.294"
+            app:layout_constraintTop_toBottomOf="@+id/edit_id_entidad_persona" android:layout_marginTop="12dp"
+            android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="260dp"
+            android:layout_height="29dp"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/edit_telefono_persona"
+            android:hint="@string/str_telefono_persona" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.298"
+            app:layout_constraintTop_toBottomOf="@+id/edit_codpostal_persona"
+            android:layout_marginTop="4dp" android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="263dp"
+            android:layout_height="27dp"
+            android:inputType="date"
+            android:ems="10"
+            android:id="@+id/edit_fecha_nac_persona"
+            android:hint="@string/str_fecha_nac" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edit_telefono_persona"
+            app:layout_constraintHorizontal_bias="0.31" android:layout_marginTop="12dp"
+            android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="264dp"
+            android:layout_height="30dp"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/edit_id_institucion_persona"
+            android:hint="@string/str_id_institucion_persona" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edit_fecha_nac_persona"
+            app:layout_constraintHorizontal_bias="0.312" android:layout_marginTop="8dp"
+            android:background="@drawable/edit_text_border"/>
+    <EditText
+            android:layout_width="256dp"
+            android:layout_height="31dp"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/edit_tipo_persona"
+            android:hint="@string/str_tipo_persona" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edit_id_institucion_persona"
+            app:layout_constraintHorizontal_bias="0.29" android:layout_marginTop="8dp"
+            android:background="@drawable/edit_text_border"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

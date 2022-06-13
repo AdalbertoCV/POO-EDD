@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <municipio id_municipio="1001" nombre_municipio="Aguascalientes"/>
+  <municipio id_municipio="1002" nombre_municipio="Asientos"/>
+  <municipio id_municipio="1003" nombre_municipio="Calvillo"/>
+  <municipio id_municipio="1004" nombre_municipio="Cosío"/>
+  <municipio id_municipio="1005" nombre_municipio="Jesús María"/>
+  <municipio id_municipio="1006" nombre_municipio="Pabellón de Arteaga"/>
+  <municipio id_municipio="1007" nombre_municipio="Rincón de Romos"/>
+  <municipio id_municipio="1008" nombre_municipio="San José de Gracia"/>
+  <municipio id_municipio="1009" nombre_municipio="Tepezalá"/>
+  <municipio id_municipio="1010" nombre_municipio="El Llano"/>
+  <municipio id_municipio="1011" nombre_municipio="San Francisco de los Romo"/>
+</dataset>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <municipio id_municipio="32001" nombre_municipio="Apozol"/>
+  <municipio id_municipio="32002" nombre_municipio="Apulco"/>
+  <municipio id_municipio="32003" nombre_municipio="Atolinga"/>
+  <municipio id_municipio="32004" nombre_municipio="Benito Juárez"/>
+  <municipio id_municipio="32005" nombre_municipio="Calera"/>
+  <municipio id_municipio="32006" nombre_municipio="Cañitas de Felipe Pescador"/>
+  <municipio id_municipio="32007" nombre_municipio="Concepción del Oro"/>
+  <municipio id_municipio="32008" nombre_municipio="Cuauhtémoc"/>
+  <municipio id_municipio="32009" nombre_municipio="Chalchihuites"/>
+  <municipio id_municipio="32010" nombre_municipio="Fresnillo"/>
+  <municipio id_municipio="32011" nombre_municipio="Trinidad García de la Cadena"/>
+  <municipio id_municipio="32012" nombre_municipio="Genaro Codina"/>
+  <municipio id_municipio="32013" nombre_municipio="General Enrique Estrada"/>
+  <municipio id_municipio="32014" nombre_municipio="General Francisco R. Murguía"/>
+  <municipio id_municipio="32015" nombre_municipio="El Plateado de Joaquín Amaro"/>
+  <municipio id_municipio="32016" nombre_municipio="General Pánfilo Natera"/>
+  <municipio id_municipio="32017" nombre_municipio="Guadalupe"/>
+  <municipio id_municipio="32018" nombre_municipio="Huanusco"/>
+  <municipio id_municipio="32019" nombre_municipio="Jalpa"/>
+  <municipio id_municipio="32020" nombre_municipio="Jerez"/>
+  <municipio id_municipio="32021" nombre_municipio="Jiménez del Teul"/>
+  <municipio id_municipio="32022" nombre_municipio="Juan Aldama"/>
+  <municipio id_municipio="32023" nombre_municipio="Juchipila"/>
+  <municipio id_municipio="32024" nombre_municipio="Loreto"/>
+  <municipio id_municipio="32025" nombre_municipio="Luis Moya"/>
+  <municipio id_municipio="32026" nombre_municipio="Mazapil"/>
+  <municipio id_municipio="32027" nombre_municipio="Melchor Ocampo"/>
+  <municipio id_municipio="32028" nombre_municipio="Mezquital del Oro"/>
+  <municipio id_municipio="32029" nombre_municipio="Miguel Auza"/>
+  <municipio id_municipio="32030" nombre_municipio="Momax"/>
+  <municipio id_municipio="32031" nombre_municipio="Monte Escobedo"/>
+  <municipio id_municipio="32032" nombre_municipio="Morelos"/>
+  <municipio id_municipio="32033" nombre_municipio="Moyahua de Estrada"/>
+  <municipio id_municipio="32034" nombre_municipio="Nochistlán de Mejía"/>
+  <municipio id_municipio="32035" nombre_municipio="Noria de Ángeles"/>
+  <municipio id_municipio="32036" nombre_municipio="Ojocaliente"/>
+  <municipio id_municipio="32037" nombre_municipio="Pánuco"/>
+  <municipio id_municipio="32038" nombre_municipio="Pinos"/>
+  <municipio id_municipio="32039" nombre_municipio="Río Grande"/>
+  <municipio id_municipio="32040" nombre_municipio="Sain Alto"/>
+  <municipio id_municipio="32041" nombre_municipio="El Salvador"/>
+  <municipio id_municipio="32042" nombre_municipio="Sombrerete"/>
+  <municipio id_municipio="32043" nombre_municipio="Susticacán"/>
+  <municipio id_municipio="32044" nombre_municipio="Tabasco"/>
+  <municipio id_municipio="32045" nombre_municipio="Tepechitlán"/>
+  <municipio id_municipio="32046" nombre_municipio="Tepetongo"/>
+  <municipio id_municipio="32047" nombre_municipio="Teúl de González Ortega"/>
+  <municipio id_municipio="32048" nombre_municipio="Tlaltenango de Sánchez Román"/>
+  <municipio id_municipio="32049" nombre_municipio="Valparaíso"/>
+  <municipio id_municipio="32050" nombre_municipio="Vetagrande"/>
+  <municipio id_municipio="32051" nombre_municipio="Villa de Cos"/>
+  <municipio id_municipio="32052" nombre_municipio="Villa García"/>
+  <municipio id_municipio="32053" nombre_municipio="Villa González Ortega"/>
+  <municipio id_municipio="32054" nombre_municipio="Villa Hidalgo"/>
+  <municipio id_municipio="32055" nombre_municipio="Villanueva"/>
+  <municipio id_municipio="32056" nombre_municipio="Zacatecas"/>
+  <municipio id_municipio="32057" nombre_municipio="Trancoso"/>
+  <municipio id_municipio="32058" nombre_municipio="Santa María de la Paz"/>
+</dataset>

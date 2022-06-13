@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <entidad id_entidad="1" nombre_entidad="Aguascalientes"/>
+  <entidad id_entidad="2" nombre_entidad="Baja California"/>
+  <entidad id_entidad="3" nombre_entidad="Baja California Sur"/>
+  <entidad id_entidad="4" nombre_entidad="Campeche"/>
+  <entidad id_entidad="5" nombre_entidad="Coahuila"/>
+  <entidad id_entidad="6" nombre_entidad="Colima"/>
+  <entidad id_entidad="7" nombre_entidad="Chiapas"/>
+  <entidad id_entidad="8" nombre_entidad="Chihuahua"/>
+  <entidad id_entidad="9" nombre_entidad="Ciudad de México"/>
+  <entidad id_entidad="10" nombre_entidad="Durango"/>
+  <entidad id_entidad="11" nombre_entidad="Guanajuato"/>
+  <entidad id_entidad="12" nombre_entidad="Guerrero"/>
+  <entidad id_entidad="13" nombre_entidad="Hidalgo"/>
+  <entidad id_entidad="14" nombre_entidad="Jalisco"/>
+  <entidad id_entidad="15" nombre_entidad="México"/>
+  <entidad id_entidad="16" nombre_entidad="Michoacán"/>
+  <entidad id_entidad="17" nombre_entidad="Morelos"/>
+  <entidad id_entidad="18" nombre_entidad="Nayarit"/>
+  <entidad id_entidad="19" nombre_entidad="Nuevo León"/>
+  <entidad id_entidad="20" nombre_entidad="Oaxaca"/>
+  <entidad id_entidad="21" nombre_entidad="Puebla"/>
+  <entidad id_entidad="22" nombre_entidad="Querétaro"/>
+  <entidad id_entidad="23" nombre_entidad="Quintana Roo"/>
+  <entidad id_entidad="24" nombre_entidad="San Luis Potosí"/>
+  <entidad id_entidad="25" nombre_entidad="Sinaloa"/>
+  <entidad id_entidad="26" nombre_entidad="Sonora"/>
+  <entidad id_entidad="27" nombre_entidad="Tabasco"/>
+  <entidad id_entidad="28" nombre_entidad="Tamaulipas"/>
+  <entidad id_entidad="29" nombre_entidad="Tlaxcala"/>
+  <entidad id_entidad="30" nombre_entidad="Veracruz"/>
+  <entidad id_entidad="31" nombre_entidad="Yucatán"/>
+  <entidad id_entidad="32" nombre_entidad="Zacatecas"/>
+</dataset>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <institucion id_institucion="1" nombre_institucion="Universidad Autonoma de Zacatecas" nombre_corto_institucion="UAZ" url_institucion="http://www.uaz.edu.mx" calle_num_institucion="Carr. Guadalajara S/N"  id_municipio_institucion="32056" id_entidad_institucion="32" />
+  <institucion id_institucion="2" nombre_institucion="Unidad Profesional Interdisciplinaria Ing Zac" nombre_corto_institucion="UPIIZ" url_institucion="http://www.upiiz.edu.mx" calle_num_institucion="Blvd del Bote S/N" id_municipio_institucion="32056" id_entidad_institucion="32"/>
+  <institucion id_institucion="3" nombre_institucion="Universidad Tecnologica del Estado de Zacatecas" nombre_corto_institucion="UTZAC" url_institucion="http://www.utzac.edu.mx" calle_num_institucion="Carr. Cieneguitas S/N" id_municipio_institucion="32017" id_entidad_institucion="32" />
+  <sede id_sede="1" nombre_sede="UAIE" id_institucion_sede="1" email_director_sede="rsolis@uaz.edu.mx" />
+  <sede id_sede="2" nombre_sede="TIC-UTZAC" id_institucion_sede="2" email_director_sede="lzapata@utzac.edu.mx" />
+  <concurso id_concurso="1" nombre_concurso="Gran Premio ICPC 2021" fecha_concurso="2021-10-30" fecha_inicio_registro="2021-09-27" fecha_fin_registro="2021-10-27"/>
+</dataset>

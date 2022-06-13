@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <sede id_sede="1" nombre_sede="UAIE" id_institucion_sede="1" email_director_sede="rsolis@uaz.edu.mx" url_sede="http://biy.ly/uaieUAZ"/>
+  <sede id_sede="2" nombre_sede="ITSZO Sistemas" id_institucion_sede="3" email_director_sede="ontiveros@itszo.edu.mx" url_sede="http://www.itszo.edu.mx/icpc"/>
+  <sede id_sede="3" nombre_sede="UPIIZ Club" id_institucion_sede="2" email_director_sede="rodmtz@upiiz.edu.mx" url_sede="http://www.upiiz.edu.mx/icpc"/>
+</dataset>

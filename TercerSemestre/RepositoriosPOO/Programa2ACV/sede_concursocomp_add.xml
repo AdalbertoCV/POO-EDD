@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <sede_concurso id_sede="1" id_concurso="1"/>
+  <sede_concurso id_sede="1" id_concurso="3"/>
+  <sede_concurso id_sede="2" id_concurso="1"/>
+  <sede_concurso id_sede="3" id_concurso="3"/>
+</dataset>

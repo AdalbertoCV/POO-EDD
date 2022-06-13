@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Primera App Android de 34152734</string>
+    <string name="str_numero">Numero:</string>
+    <string name="str_factorial">Factorial</string>
+    <string name="str_resultado">El factorial de %s es %d</string>
+    <string name="str_cubo">Cubo</string>
+    <string name="str_cuadrado">Cuadrado</string>
+    <string name="str_raiz">Raiz</string>
+    <string name="str_calcula">Calcula</string>
+    <string name="str_selecciona">Selecciona Operacion</string>
+    <string name="str_res_gen">%s de %s es %.1f</string>
+    <string name="str_llamar">Llamar</string>
+    <string name="str_mensaje">SMS</string>
+    <string name="str_enviar">Enviar SMS</string>
+    <string name="str_telefono">Telefono</string>
+    <string name="strurlhint">Ingrese el URL</string>
+    <string name="str_btn_url">Ir a URL</string>
+    <string name="str_event">Agregar Evento</string>
+    <string name="str_map">Abrir mapa</string>
+</resources>

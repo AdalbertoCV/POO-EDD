@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <equipo id_equipo="1" nombre_equipo="#include &lt;uaz&gt;" email_coach="rsolis@uaz.edu.mx" email_concursante1="charly@uaz.edu.mx" email_concursante2="lalo@uaz.edu.mx" email_concursante3="hjesus@hotmail.com" email_concursante_reserva="joyce@hotmail.com" id_institucion_equipo="1"/>
+  <equipo id_equipo="2" nombre_equipo="pycoo" email_coach="ontiveros@itszo.edu.mx" email_concursante1="dianamtz@yahoo.com.mx" email_concursante2="jorge12@gmail.com" email_concursante3="lauratapia@outlook.com" email_concursante_reserva="" id_institucion_equipo="3"/>
+  <equipo id_equipo="3" nombre_equipo="Code Avengers" email_coach="sodelv@uaz.edu.mx" email_concursante1="hjesus@hotmail.com" email_concursante2="charly@uaz.edu.mx" email_concursante3="joyce@hotmail.com" email_concursante_reserva="lalo@uaz.edu.mx" id_institucion_equipo="1"/>
+</dataset>

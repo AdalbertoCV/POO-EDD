@@ -1,0 +1,3 @@
+Universidad Autonoma de Zacatecas,UAZ,http://www.uaz.edu.mx,Carr. Guadalajara S/N,32,32056
+Unidad Profesional Interdisciplinaria Ing Zac,UPIIZ,http://www.upiiz.edu.mx,Blvd del Bote S/N,32,32056
+Universidad Tecnologica del Estado de Zacatecas,UTZAC,http://www.utzac.edu.mx,Carr. Cieneguitas S/N,32,32017

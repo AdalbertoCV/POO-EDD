@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <correos1_e email_persona="34154123@uaz.edu.mx"/>
+  <correos1_e email_persona="36177667@uaz.edu.mx"/>
+  <correos1_e email_persona="39203708@uaz.edu.mx"/>
+  <correos1_e email_persona="39203712@uaz.edu.mx"/>
+  <correos1_e email_persona="39204317@uaz.edu.mx"/>
+  <correos1_e email_persona="3920435@uaz.edu.mx"/>
+  <correos1_e email_persona="alexis.tadeo2201@gmail.com"/>
+  <correos1_e email_persona="charly@uaz.edu.mx"/>
+  <correos1_e email_persona="crissalexis18@hotmail.com"/>
+  <correos1_e email_persona="hjesus@hotmail.com"/>
+  <correos1_e email_persona="Javis_kaos@hotmail.com"/>
+  <correos1_e email_persona="JonathanCarrera14@hotmail.com"/>
+  <correos1_e email_persona="joyce@hotmail.com"/>
+  <correos1_e email_persona="lalo@uaz.edu.mx"/>
+  <correos1_e email_persona="rafael_sdthda@hotmail.com"/>
+  <correos1_e email_persona="robertotovar290501@gmail.com"/>
+  <correos1_e email_persona="sanchezrodriguez101@hotmail.com"/>
+  <correos1_e email_persona="saucedokevin544@gmail.com"/>
+  <correos1_e email_persona="ulises.huerta1145@gmail.com"/>
+  <correos1_p email_persona="rsolis@uaz.edu.mx"/>
+  <correos3_e email_persona="dianamtz@yahoo.com.mx"/>
+  <correos3_e email_persona="jorge12@gmail.com"/>
+  <correos3_e email_persona="jorge311.mg@gmail.com"/>
+  <correos3_e email_persona="kaithlyn.mendez@gmail.com"/>
+  <correos3_e email_persona="lauratapia@outlook.com"/>
+  <correos3_e email_persona="Megalastmen_987@outlook.com"/>
+  <correos3_e email_persona="newstudent@outlook.com"/>
+  <sedeasign_1 id_sede_concurso="1" id_sede="1" id_concurso="1" nombre_sede="UAIE" nombre_concurso="Gran Premio de Mexico 2020"/>
+  <sedeasign_1 id_sede_concurso="3" id_sede="2" id_concurso="1" nombre_sede="ITSZO Sistemas" nombre_concurso="Gran Premio de Mexico 2020"/>
+  <sedeasign_2/>
+  <sedeasign_3 id_sede_concurso="2" id_sede="1" id_concurso="3" nombre_sede="UAIE" nombre_concurso="Coding Cup TecNM 2020"/>
+  <sededisp_1 id_sede="3" nombre_sede="UPIIZ Club" id_institucion_sede="2" email_director_sede="alexac@upiiz.ipn.mx" url_sede="http://www.upiiz.ipn.mx/icpc"/>
+  <sededisp_1 id_sede="4" nombre_sede="ITA Labs" id_institucion_sede="4" email_director_sede="rortiz@ita.edu.mx" url_sede="http://www.ita.mx/concursos"/>
+  <sededisp_2 id_sede="1" nombre_sede="UAIE" id_institucion_sede="1" email_director_sede="rsolis@uaz.edu.mx" url_sede="http://biy.ly/uaieUAZ"/>
+  <sededisp_2 id_sede="2" nombre_sede="ITSZO Sistemas" id_institucion_sede="3" email_director_sede="ontiveros@itszo.edu.mx" url_sede="http://www.itszo.edu.mx/icpc"/>
+  <sededisp_2 id_sede="3" nombre_sede="UPIIZ Club" id_institucion_sede="2" email_director_sede="alexac@upiiz.ipn.mx" url_sede="http://www.upiiz.ipn.mx/icpc"/>
+  <sededisp_2 id_sede="4" nombre_sede="ITA Labs" id_institucion_sede="4" email_director_sede="rortiz@ita.edu.mx" url_sede="http://www.ita.mx/concursos"/>
+  <sededisp_3 id_sede="2" nombre_sede="ITSZO Sistemas" id_institucion_sede="3" email_director_sede="ontiveros@itszo.edu.mx" url_sede="http://www.itszo.edu.mx/icpc"/>
+  <sededisp_3 id_sede="3" nombre_sede="UPIIZ Club" id_institucion_sede="2" email_director_sede="alexac@upiiz.ipn.mx" url_sede="http://www.upiiz.ipn.mx/icpc"/>
+  <sededisp_3 id_sede="4" nombre_sede="ITA Labs" id_institucion_sede="4" email_director_sede="rortiz@ita.edu.mx" url_sede="http://www.ita.mx/concursos"/>
+  <equipodisp1_1 id_equipo="5" nombre_equipo="DEHRAM" email_coach="rsolis@uaz.edu.mx" email_concursante1="39203708@uaz.edu.mx" email_concursante2="39203712@uaz.edu.mx" email_concursante3="JonathanCarrera14@hotmail.com" id_institucion_equipo="1"/>
+  <equipodisp1_1 id_equipo="6" nombre_equipo="Warriors" email_coach="rsolis@uaz.edu.mx" email_concursante1="crissalexis18@hotmail.com" email_concursante2="alexis.tadeo2201@gmail.com" email_concursante3="sanchezrodriguez101@hotmail.com" id_institucion_equipo="1"/>
+  <equipodisp2_1 id_equipo="3" nombre_equipo="#include &lt;uaz&gt;" email_coach="rsolis@uaz.edu.mx" email_concursante1="charly@uaz.edu.mx" email_concursante2="lalo@uaz.edu.mx" email_concursante3="hjesus@hotmail.com" id_institucion_equipo="1"/>
+  <equipodisp2_1 id_equipo="4" nombre_equipo="Equipo power" email_coach="rsolis@uaz.edu.mx" email_concursante1="34154123@uaz.edu.mx" email_concursante2="robertotovar290501@gmail.com" email_concursante3="saucedokevin544@gmail.com" id_institucion_equipo="1"/>
+  <equipodisp2_1 id_equipo="6" nombre_equipo="Warriors" email_coach="rsolis@uaz.edu.mx" email_concursante1="crissalexis18@hotmail.com" email_concursante2="alexis.tadeo2201@gmail.com" email_concursante3="sanchezrodriguez101@hotmail.com" id_institucion_equipo="1"/>
+  <equipodisp2_2 id_equipo="1" nombre_equipo="Dinamita Morada" email_coach="rsolis@uaz.edu.mx" email_concursante1="reynasrdz2@gmail.com" email_concursante2="juannabarro574@gmail.com" email_concursante3="jesusortiz_s@hotmail.com" id_institucion_equipo="2"/>
+  <equipodisp2_2 id_equipo="2" nombre_equipo="ATHEN" email_coach="alexac@upiiz.ipn.mx" email_concursante1="omarmaci528@gmail.com" email_concursante2="cesarv2001@hotmail.com" email_concursante3="mguadalupe_carrillo@hotmail.com" id_institucion_equipo="2"/>
+  <equipodisp1_2 id_equipo="1" nombre_equipo="Dinamita Morada" email_coach="rsolis@uaz.edu.mx" email_concursante1="reynasrdz2@gmail.com" email_concursante2="juannabarro574@gmail.com" email_concursante3="jesusortiz_s@hotmail.com" id_institucion_equipo="2"/>
+  <equipodisp2_3 id_equipo="7" nombre_equipo="pycoo" email_coach="ontiveros@itszo.edu.mx" email_concursante1="dianamtz@yahoo.com.mx" email_concursante2="jorge12@gmail.com" email_concursante3="lauratapia@outlook.com" id_institucion_equipo="3"/>
+  <equipodisp2_3 id_equipo="8" nombre_equipo="Dinamitas" email_coach="ontiveros@itszo.edu.mx" email_concursante1="Megalastmen_987@outlook.com" email_concursante2="jorge311.mg@gmail.com" email_concursante3="kaithlyn.mendez@gmail.com" id_institucion_equipo="3"/>
+  <equiporeg1_1 id_equipo_sede_concurso="1" id_equipo="3" id_sede_concurso="1" nombre_equipo="#include &lt;uaz&gt;" nombre_sede="UAIE" nombre_concurso="Gran Premio de Mexico 2020"/>
+  <equiporeg1_1 id_equipo_sede_concurso="2" id_equipo="4" id_sede_concurso="3" nombre_equipo="Equipo power" nombre_sede="ITSZO Sistemas" nombre_concurso="Gran Premio de Mexico 2020"/>
+  <equiporeg1_2 id_equipo_sede_concurso="4" id_equipo="2" id_sede_concurso="1" nombre_equipo="ATHEN" nombre_sede="UAIE" nombre_concurso="Gran Premio de Mexico 2020"/>
+  <equiporeg1_3 id_equipo_sede_concurso="5" id_equipo="7" id_sede_concurso="3" nombre_equipo="pycoo" nombre_sede="ITSZO Sistemas" nombre_concurso="Gran Premio de Mexico 2020"/>
+  <equiporeg3_1 id_equipo_sede_concurso="3" id_equipo="5" id_sede_concurso="2" nombre_equipo="DEHRAM" nombre_sede="UAIE" nombre_concurso="Coding Cup TecNM 2020"/>
+</dataset>

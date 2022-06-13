@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <concurso id_concurso="1" nombre_concurso="Gran Premio de Mexico 2020" fecha_concurso="2020-10-31" fecha_inicio_registro="2020-10-01" fecha_fin_registro="2020-10-28"/>
+  <concurso id_concurso="2" nombre_concurso="Eliminatoria Regional Mexico 2020" fecha_concurso="2020-11-14" fecha_inicio_registro="2020-11-01" fecha_fin_registro="2020-11-11"/>
+  <concurso id_concurso="3" nombre_concurso="Coding Cup TecNM" fecha_concurso="2020-11-06" fecha_inicio_registro="2020-10-15" fecha_fin_registro="2020-11-03"/>
+</dataset>

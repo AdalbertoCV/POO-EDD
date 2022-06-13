@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Cliente Control Concursos</string>
+    <string name="hint_persona">Personas</string>
+    <string name="hint_institucion">Instituciones</string>
+    <string name="hint_detalle_persona">Detalle Persona</string>
+    <string name="hint_detalle_institucion">Detalle Institución</string>
+    <string name="etiqueta_autor">Desarrollado por %s</string>
+    <string name="nombre_autor">Adalberto Cerrillo Vazquez</string>
+    <string name="permiso_internet_disponible">Permiso de acceder a Internet otorgado, puedes acceder al sistema.</string>
+    <string name="permiso_internet_requerido">Esta aplicación accede a la información a través de servicios REST por lo cual es necesario tener permiso de usar Internet, de otra manera no es posible obtener la informacion del sistema.</string>
+    <string name="permiso_internet_otorgado">El usuario otorgó permiso de usar Internet. Selecciona que lista deseas ver.</string>
+    <string name="permiso_internet_denegado">El usuario negó el permiso de usar Internet. No podrás ver ninguna lista.</string>
+
+    <string name="mensaje_error_url_invalido">El URL proporcionado es inválido</string><string name="mensaje_error_url_incorrecto">El URL solicitado no fue encontrado o causó error en el servidor</string>
+    <string name="mensaje_error_io">Error de conexión al contactar al servicio</string>
+    <string name="mensaje_error_json">Los datos recibidos del servicio no tienen el formato correcto</string>
+    <string name="mensaje_error_no_hay_registros">No hay registros para el servicio seleccionado.</string>
+    <string name="mensaje_error_campos">Uno o varios campos no tienen valores válidos.</string>
+    <string name="mensaje_exito_operacion">¡Operación solicitada aplicada exitosamente!</string>
+    <string name="mensaje_error_operacion">¡Operación solicitada no se pudo realizar!</string>
+
+    <string name="etiqueta_ok">OK</string>
+    <string name="internet_no_disponible"><b>El acceso a internet no está disponible</b>.\n Esto significa que el usuario no ha otorgado el permiso para usarlo.</string>
+    <string name="url_base">http://192.168.0.31:8080/RESTConcursos-34152734/servicios/</string>
+    <string name="titulo_confirmacion_eliminar">Confirmación de Eliminación</string>
+    <string name="mensaje_confirmacion_eliminar">¿Estás seguro de querer eliminar el elemento seleccionado?</string>
+    <string name="titulo_opcion_si">Sí</string>
+
+    <string name="titulo_confirmacion_guardar">Confirmación de Actualización</string>
+    <string name="mensaje_confirmacion_guardar">¿Estás seguro de querer guardar los datos capturados?</string>
+
+
+    <string name="titulo_opcion_no">No</string>
+    <string name="texto_cerrar">Cerrar</string>
+    <string name="hint_id_inst">ID de la Institución</string>
+    <string name="hint_nombre_inst">Nombre de la Institución</string>
+    <string name="hint_nombrecorto_inst">Nombre Corto de la Institución</string>
+    <string name="hint_url_inst">URL de la Institución</string>
+    <string name="hint_calle_inst">Calle y Número donde se ubica la Institución</string>
+    <string name="hint_colonia_inst">Colonia donde se ubica la Institución</string>
+    <string name="hint_idmunicipio_inst">ID del municipio donde se ubica la Institución</string>
+    <string name="hint_identidad_inst">ID de la entidad donde se ubica la Institución</string>
+    <string name="hint_codpostal_inst">Código Postal de la Institución</string>
+    <string name="hint_telefono_inst">Teléfono de la Institución</string>
+    <string name="str_email_persona">Email persona</string>
+    <string name="str_nombre_persona">Nombre persona</string>
+    <string name="str_apellidos_persona">Apellidos persona</string>
+    <string name="str_sexo_persona">Sexo persona</string>
+    <string name="str_calle_num_persona">Calle y Num persona</string>
+    <string name="str_colonia_persona">Colonia persona</string>
+    <string name="str_id_municipio_persona">Id Municipio persona</string>
+    <string name="str_id_entidad_persona">Id Entidad persona</string>
+    <string name="str_codpostal_persona">Codpostal persona</string>
+    <string name="str_telefono_persona">Telefono persona</string>
+    <string name="str_fecha_nac">"Fecha Nacimiento "</string>
+    <string name="str_id_institucion_persona">id Institucion</string>
+    <string name="str_tipo_persona">Tipo persona</string>
+
+
+</resources>

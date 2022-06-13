@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'poo2.prac03'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+}
+
+test {
+    useJUnitPlatform()
+    testLogging {
+        events 'PASSED', 'FAILED', 'SKIPPED'
+    }
+    // testLogging.showStandardStreams = true
+    afterSuite { desc, result ->
+        if (!desc.parent) {
+            println "\nResultados de Prueba: ${result.resultType}"
+            println "Resumen de prueba: ${result.testCount} pruebas, " +
+                    "${result.successfulTestCount} exitosas, " +
+                    "${result.failedTestCount} fallidas, " +
+                    "${result.skippedTestCount} omitidas"
+        }
+    }
+}

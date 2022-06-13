@@ -1,0 +1,51 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+application {
+    // Define the main class for the application.
+    mainClass = 'poo2.prac06_07.MainPractica06_07'
+}
+
+group 'poo2.prac06_07'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    testImplementation group: "org.dbunit", name: "dbunit", version: "2.7.0"
+
+    // MySQL Driver
+    implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.25'
+    runtimeOnly "mysql:mysql-connector-java:8.0.25"
+
+    // DB Unit para pruebas
+    implementation group: "org.dbunit", name: "dbunit", version: "2.7.0"
+    implementation group: 'org.slf4j', name: 'slf4j-log4j12', version: '1.7.+'
+    runtimeOnly "org.dbunit:dbunit:2.7.0"
+
+}
+
+test {
+    useJUnitPlatform()
+    testLogging {
+        events 'PASSED', 'FAILED', 'SKIPPED'
+    }
+    
+    testLogging.showStandardStreams = true
+
+    afterSuite { desc, result ->
+        if (!desc.parent) {
+            println "\nResultados de Prueba: ${result.resultType}"
+            println "Resumen de prueba: ${result.testCount} pruebas, " +
+                    "${result.successfulTestCount} exitosas, " +
+                    "${result.failedTestCount} fallidas, " +
+                    "${result.skippedTestCount} omitidas"
+        }
+    }
+}

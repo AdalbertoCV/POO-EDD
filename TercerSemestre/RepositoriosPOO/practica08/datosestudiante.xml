@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <datos_estudiante email_estudiante="charly@uaz.edu.mx" carrera_estudiante="Ingenieria de Software" fecha_inicio_carrera="2016-08-15" fecha_esperada_terminacion="2021-07-02"/>
+  <datos_estudiante email_estudiante="dianamtz@yahoo.com.mx" carrera_estudiante="Licenciado en Informatica" fecha_inicio_carrera="2018-08-15" fecha_esperada_terminacion="2023-06-30"/>
+  <datos_estudiante email_estudiante="hjesus@hotmail.com" carrera_estudiante="Licenciado en Matematicas" fecha_inicio_carrera="2015-08-15" fecha_esperada_terminacion="2020-06-30"/>
+  <datos_estudiante email_estudiante="jorge12@gmail.com" carrera_estudiante="Ing. en Sistemas Computacionales" fecha_inicio_carrera="2017-08-14" fecha_esperada_terminacion="2022-06-30"/>
+  <datos_estudiante email_estudiante="joyce@hotmail.com" carrera_estudiante="Ingenieria de Software" fecha_inicio_carrera="2016-08-15" fecha_esperada_terminacion="2021-06-30"/>
+  <datos_estudiante email_estudiante="lalo@uaz.edu.mx" carrera_estudiante="Licenciado en Matematicas" fecha_inicio_carrera="2018-08-11" fecha_esperada_terminacion="2023-06-30"/>
+</dataset>

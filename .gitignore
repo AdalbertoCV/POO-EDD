@@ -1,0 +1,21 @@
+# Compilados de Java
+*.class
+out/
+build/
+bin/
+
+# Gradle
+.gradle/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.classpath
+.project
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
